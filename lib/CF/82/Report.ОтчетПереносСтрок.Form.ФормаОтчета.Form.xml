@@ -20,8 +20,8 @@
 			<DataPath>ТД</DataPath>
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ТабДок</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4AD9446E-090C-7F32-2A96-625D579C74F4</v8:content>
 				</v8:item>
 			</Title>
 			<ContextMenu name="ТабДокКонтекстноеМеню" id="4"/>
@@ -38,8 +38,8 @@
 		<Attribute name="ТД" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ТД</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>60721FE9-CCCD-CE87-7AAB-B5488FD76F89</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -51,14 +51,14 @@
 		<Command name="Сформировать" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9EAB7F80-9EA9-7171-1CF6-67827022D47E</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>8F283FAF-A15A-3328-81D7-729649CDB683</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>Сформировать</Action>

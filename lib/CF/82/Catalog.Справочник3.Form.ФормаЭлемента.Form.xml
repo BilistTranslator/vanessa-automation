@@ -109,8 +109,8 @@
 		<Attribute name="РеквизитТабличныйДокумент" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Реквизит табличный документ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>ED64A4E2-D840-8807-71DE-E013B3D30386</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -120,8 +120,8 @@
 		<Attribute name="СделатьМакетНедоступным" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать макет недоступным</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D6D9B29F-4E22-0F2D-DC86-6EEC65964907</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -131,8 +131,8 @@
 		<Attribute name="Календарь" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Календарь</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>6E743A37-A793-FB70-0C26-62BD70BDE45E</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -147,14 +147,14 @@
 		<Command name="СформироватьОтчет" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать отчет</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>33A4D642-A093-7FA5-54AC-CA5DFADAF393</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать отчет</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>DC830481-05FF-3815-5A59-9D7E7B9EF59F</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СформироватьОтчет</Action>
@@ -162,14 +162,14 @@
 		<Command name="ОткрытьФайл" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Открыть файл</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>CC972944-A875-FEA0-0D6D-D693FE8B5C88</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Открыть файл</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E694A851-3B64-94CD-DC5A-A564355D0BAC</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ОткрытьФайл</Action>
@@ -177,14 +177,14 @@
 		<Command name="СформироватьОтчетСВертикальнойЧертой" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать отчет с вертикальной чертой</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>AA38C26D-DFAE-C806-65EF-FC50F2A34859____</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать отчет с вертикальной чертой</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>87874262-B358-FAEF-F6E6-60DA0CB410F5____</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СформироватьОтчетСВертикальнойЧертой</Action>
@@ -192,14 +192,14 @@
 		<Command name="СделатьСлужебноеСообщение" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать служебное сообщение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F51D4683-627F-9D31-1D55-5977A11398C4</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать служебное сообщение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>BC383000-62C9-45A0-0848-8B5642AAD3B1</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СделатьСлужебноеСообщение</Action>
@@ -207,14 +207,14 @@
 		<Command name="КомандаПоказатьВопросСНестандартнымДиалогом" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Показать вопрос с нестандартным диалогом</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>698FCDA7-F308-3A43-39B3-3695F5BA277B____</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Команда показать вопрос с нестандартным диалогом</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>ECB7DE40-47AC-7232-2E64-4329E3345CEE____________</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>КомандаПоказатьВопросСНестандартнымДиалогом</Action>
@@ -222,14 +222,14 @@
 		<Command name="СформироватьОтчетОбъединенныеЯчейки" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать отчет объединенные ячейки</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9D995900-5C5C-B56E-EEAF-FA1CFA817CC7__</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать отчет объединенные ячейки</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F0F009C1-3F41-F915-5940-0A0168222DC0__</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СформироватьОтчетОбъединенныеЯчейки</Action>
@@ -237,14 +237,14 @@
 		<Command name="РазрешитьРедактированиеТабличногоДокумента" id="7">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Разрешить редактирование табличного документа</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>588BE33A-3F02-BEC6-6CDB-B14032692C1D_________</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Разрешить редактирование табличного документа</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A001E149-3723-6C58-84BF-FE4A7340FBE7_________</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>РазрешитьРедактированиеТабличногоДокумента</Action>

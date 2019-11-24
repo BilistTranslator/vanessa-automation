@@ -15,8 +15,8 @@
 			<Name>ГенерацияEPF</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ГенерацияEPF</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>99FAD6DF-B3E8-0B4D-D726-6E92CA45258C</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CB649002-5AB1-C5FC-C6AA-AFA230C5E9AE</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>85733309-2952-2639-9775-561996278373</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

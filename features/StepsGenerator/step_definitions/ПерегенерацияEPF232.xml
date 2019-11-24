@@ -15,8 +15,8 @@
 			<Name>ПерегенерацияEPF232</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПерегенерацияEPF 232</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4ABF6FFB-3316-BA1C-C231-14B266B59D93</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>0D8EC8FD-E0E5-E115-5128-83058B0A221F</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>2381F6B9-2316-1089-928E-E0584A03ACDE</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

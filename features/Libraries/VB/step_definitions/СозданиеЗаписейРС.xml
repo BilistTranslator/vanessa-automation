@@ -15,8 +15,8 @@
 			<Name>СозданиеЗаписейРС</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>СозданиеЗаписейРС</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>62BA7348-15D2-1AAF-F622-2150E525D0C1</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A95CF008-A857-8293-3149-9F39D9781F78</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CBF23B87-5121-23FC-CC4A-AF279AEE6725</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

@@ -15,8 +15,8 @@
 			<Name>ПроверкаПередачиПараметров</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПроверкаПередачиПараметров</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B48576CE-1082-CF6F-F9F4-4FA8907B8585</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E3A8E666-A9E4-089B-B375-5DB9B26D6FFC</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>FA0F9A83-F5F9-C783-3A73-32C47EE75930</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

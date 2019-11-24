@@ -15,12 +15,8 @@
 			<Name>UILogToScript</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>User action log convertor</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Преобразование журнала действий пользователя</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>05440406-7BFC-A173-3390-0FB6C5C9F31E________</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -31,12 +27,7 @@
 			<Attribute uuid="8ec4b72e-e063-4f3f-a314-fad555aaa735">
 				<Properties>
 					<Name>CreatedProcedures</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Created procedures</v8:content>
-						</v8:item>
-					</Synonym>
+					<Synonym/>
 					<Comment/>
 					<Type/>
 					<PasswordMode>false</PasswordMode>
@@ -65,12 +56,8 @@
 					<Name>WindowBeingProcessed</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Window being processed</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Обрабатываемое окно</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>1D2E5544-C682-8AD2-2E74-41F7C4FBB672</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -101,12 +88,8 @@
 					<Name>FormBeingProcessed</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Form being processed</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Обрабатываемая форма</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A7BD6555-9488-790A-A339-98026211A4FB</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -137,12 +120,8 @@
 					<Name>WindowClosed</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Window was closed</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Окно было закрыто</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>8002553A-8C6C-5EAF-F179-977D0AF94B71</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -175,12 +154,8 @@
 					<Name>LastProcessedCommand</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Last processed command</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Последняя обработанная команда</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7DA68C01-8F63-7B3F-FF73-331FD7C0C970</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -217,12 +192,8 @@
 					<Name>LastProcessedControl</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Last processed control</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Последний обработанный элемент управления</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>F61232DC-514E-53C6-6C98-8A280D7C662A_____</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -259,12 +230,8 @@
 					<Name>MainProcedureName</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Main procedure name</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Имя основной процедуры</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>DCA2761F-EF1F-E7E1-16A8-8ADF57F0445F</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -301,12 +268,8 @@
 					<Name>GenerateClientConnectionScript</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Generate client connection script</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Гененировать код подключения к клиенту</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>06580589-C70D-B6C1-167E-E345D86583DA__</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -339,12 +302,8 @@
 					<Name>ScriptVariant</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Генерировать сценарий в варианте встроенного языка</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>1C:Enterprise script language</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>BCC2FF02-56A9-8B96-6C03-3AD6B9731252______________</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -381,12 +340,8 @@
 					<Name>ConversionVariant</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Convert</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Преобразовывать</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>3628EB15-DFC5-8E4D-DF02-26378CD9A883</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -424,12 +379,8 @@
 					<Name>SplitScriptIntoProcedures</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Split scenario into procedures by application windows</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Разбивать результат на процедуры по "границам" окон</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>F1619D2D-58D1-17A8-8850-02F5AC6D75A5_______________</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -462,12 +413,8 @@
 					<Name>GetFullHierarchy</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Get full object hierarchy</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Генерировать получение родительских объектов в иерархии</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>75EE8512-230E-D883-3BDC-C0E7EDA0D1EF___________________</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -500,12 +447,8 @@
 					<Name>ObjectSearch</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Object search</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Поиск объектов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>FA44B33A-97F5-2401-19C7-71ED71366AF6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

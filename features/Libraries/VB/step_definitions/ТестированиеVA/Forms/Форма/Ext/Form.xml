@@ -19,8 +19,8 @@
 		<Attribute name="КолСекундТаймер" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Кол секунд таймер</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>68B79A6C-FAC7-CE13-3D10-0219E16C32E9</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -35,8 +35,8 @@
 		<Attribute name="МаксКолСекундТаймер" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Макс кол секунд таймер</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>02F2807A-A0BB-33ED-DA6F-FDF011D7A90F</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -51,8 +51,8 @@
 		<Attribute name="ОткрывалиОбработку" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Открывали обработку</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>68E65B10-CC7E-8CC7-7371-192F2BA88ECC</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -62,8 +62,8 @@
 		<Attribute name="ЗначениеРеквизитаТаймер" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Значение реквизита таймер</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1B261448-9AF6-857E-EA53-3A784BC3F221</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -77,8 +77,8 @@
 		<Attribute name="ИмяРеквизитаТаймер" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Имя реквизита таймер</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A6B418E0-1B76-4381-1133-3EEC6B8093AD</v8:content>
 				</v8:item>
 			</Title>
 			<Type>

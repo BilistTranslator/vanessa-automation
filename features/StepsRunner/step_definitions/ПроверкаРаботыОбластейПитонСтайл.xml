@@ -15,8 +15,8 @@
 			<Name>ПроверкаРаботыОбластейПитонСтайл</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПроверкаРаботыОбластейПитонСтайл</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>2795898F-AD12-059A-A6E0-06EE3804D1DD</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>479423A6-CFF6-E3FC-CF27-78E192AE0813</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>D153E0D4-7558-3FE0-0966-609480663810</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

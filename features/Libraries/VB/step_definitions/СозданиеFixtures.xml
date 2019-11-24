@@ -15,8 +15,8 @@
 			<Name>СозданиеFixtures</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>СозданиеFixtures</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>30503541-441F-CAC4-4795-55E21AA6EDDE</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C08DD44F-A7C5-6DC5-5ECE-E93083484479</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>17034C8B-3600-35BE-E496-61347538FD71</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

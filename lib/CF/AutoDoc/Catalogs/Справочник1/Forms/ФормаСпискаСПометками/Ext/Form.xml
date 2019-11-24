@@ -65,8 +65,8 @@
 		<Attribute name="СписокСПометками" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Список с пометками</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>855824BF-8DD6-FE96-6346-68059C4FC7FF</v8:content>
 				</v8:item>
 			</Title>
 			<Type>

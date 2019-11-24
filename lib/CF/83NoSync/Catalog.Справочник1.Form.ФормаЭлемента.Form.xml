@@ -31,8 +31,8 @@
 				<Page name="Группа1" id="62">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Основа</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>5809EFB7-EC0A-B6FE-E544-49C972108734</v8:content>
 						</v8:item>
 					</Title>
 					<ExtendedTooltip name="Группа1РасширеннаяПодсказка" id="63"/>
@@ -61,14 +61,14 @@
 						<UsualGroup name="ГруппаРеквизит1" id="241">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>6FEC32C6-E081-D958-8E00-02E776FC5E90</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>EA4A6571-1248-95E2-29C6-649E31609148</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -87,14 +87,14 @@
 						<UsualGroup name="ГруппаРеквизит2" id="243">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит2</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>54795B39-E036-53ED-DE24-4341C4033CCF</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит2</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>1798BB61-CE7F-1F2D-DD5B-B1CE1FEEC0C7</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -112,14 +112,14 @@
 						<UsualGroup name="ГруппаРеквизит3" id="245">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит3</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>9D4646DD-F13F-1FA8-8CD8-8158D906688A</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит3</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>273A4FD2-17B7-C7BA-A0FC-CFDA32F3DA46</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -137,14 +137,14 @@
 						<UsualGroup name="ГруппаРеквизитЧисло" id="253">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит число</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>F40D6BC4-6295-5CBF-F652-244839F9B12F</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит число</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>0BB3E759-6B20-F748-8C37-7FC6A1ABA24C</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -159,14 +159,14 @@
 						<UsualGroup name="ГруппаРеквизитСтрока" id="255">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит строка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>6310EAB0-AD0D-022A-A6C6-66FC15493551</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит строка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>B1CEDAF2-FB6E-F2B9-945D-D75250D0C9E9</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -180,14 +180,14 @@
 						<UsualGroup name="ГруппаРеквизитДата" id="251">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит дата</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>B87D5CE4-C392-D40F-FD94-4F63E4BE54DB</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит дата</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>32AAD65B-1EB5-02FB-BC08-80B64B94A8A6</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -198,8 +198,8 @@
 							<Enabled>false</Enabled>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит строка, недоступный для редактирования</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>918642B1-711A-946F-F4FB-BB68C898DAA1___________</v8:content>
 								</v8:item>
 							</Title>
 							<ContextMenu name="РеквизитСтрокаНеДоступныйДляРедактированияКонтекстноеМеню" id="262"/>
@@ -213,14 +213,14 @@
 						<UsualGroup name="ГруппаРеквизитБулево" id="247">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит булево</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>84BFE3CA-76D3-0135-5F69-94636AC8F64B</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит булево</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>3479DCAC-CA8E-4103-3BEF-FE26CCF33E4B</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -235,14 +235,14 @@
 						<UsualGroup name="ГруппаРеквизитПереключатель" id="249">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Рреквизит переключатель</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>B35983F4-32E8-037F-F3EE-EA149991E584</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит переключатель</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>8F50BEBE-66D4-7617-7A33-34C38C6FDDA8</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -259,8 +259,8 @@
 									<xr:Value xsi:type="FormChoiceListDesTimeValue">
 										<Presentation>
 											<v8:item>
-												<v8:lang>ru</v8:lang>
-												<v8:content>Первое значение</v8:content>
+												<v8:lang>hash</v8:lang>
+												<v8:content>4617FF73-AF19-725E-E0B6-62B789E4EACD</v8:content>
 											</v8:item>
 										</Presentation>
 										<Value xsi:type="xs:decimal">1</Value>
@@ -272,8 +272,8 @@
 									<xr:Value xsi:type="FormChoiceListDesTimeValue">
 										<Presentation>
 											<v8:item>
-												<v8:lang>ru</v8:lang>
-												<v8:content>Второе значение</v8:content>
+												<v8:lang>hash</v8:lang>
+												<v8:content>41261AB0-64BA-2C71-1553-3FF139DFC358</v8:content>
 											</v8:item>
 										</Presentation>
 										<Value xsi:type="xs:decimal">2</Value>
@@ -286,14 +286,14 @@
 						<UsualGroup name="ГруппаРеквизитБыстрыйВыбор" id="257">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Рреквизит быстрый выбор</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>E17FBDF4-DB3E-13CC-CAF5-56A920ABE3D9</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа реквизит быстрый выбор</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>4CE054BD-B9C1-E684-4267-713277C7984C</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -310,8 +310,8 @@
 							<DataPath>Объект.РеквизитЧисло</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Флаг три значения</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>10BBA5FD-EA7A-AEAD-DF7A-ADABC7DD955A</v8:content>
 								</v8:item>
 							</Title>
 							<ThreeState>true</ThreeState>
@@ -428,9 +428,9 @@
 									<DataPath>Объект.ТабличнаяЧасть1.РеквизтПереносВЗаголовке</DataPath>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>ЧастьЗаголовка1
-ЧастьЗаголовка2</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>F4B17EA3-F8B8-01C7-7FCA-AEF0F8E7E4A2
+_______________</v8:content>
 										</v8:item>
 									</Title>
 									<EditMode>EnterOnInput</EditMode>
@@ -524,8 +524,8 @@
 				<Page name="Группа4" id="71">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Вспомогательная</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A31CF3D2-428E-EDE1-1CC4-47918898B57C</v8:content>
 						</v8:item>
 					</Title>
 					<ExtendedTooltip name="Группа4РасширеннаяПодсказка" id="72"/>
@@ -538,14 +538,14 @@
 						<UsualGroup name="СворачиваемаяГруппа" id="73">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>СворачиваемаяГруппа</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>B587B657-D9C3-2D38-8056-65FBC2D754EC</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Сворачиваемая группа</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>E1D25018-673E-452C-C6FE-E99A968BE369</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Behavior>Collapsible</Behavior>
@@ -572,8 +572,8 @@
 							<DataPath>Объект.Description</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Гиперссылка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>FE023C22-CD84-9775-5E0A-A87EE9189A6A</v8:content>
 								</v8:item>
 							</Title>
 							<Hiperlink>true</Hiperlink>
@@ -583,8 +583,8 @@
 						<LabelDecoration name="Декорация1" id="84">
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Декорация надпись</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>985F69B9-04C9-3088-8951-1956FE79576C</v8:content>
 								</v8:item>
 							</Title>
 							<ContextMenu name="Декорация1КонтекстноеМеню" id="85"/>
@@ -637,14 +637,14 @@
 							<Visible>false</Visible>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Вспомогательная</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>84A0E0D4-50CE-9631-1EEE-EF35EE3F0542</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа вспомогательная</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>335D5CA1-0C63-D443-3592-2A22A8FD6421</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -656,14 +656,14 @@
 					<Visible>false</Visible>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Невидимая страница</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>1B8A37ED-FDF2-B80E-E9AB-BDAFDA90E346</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Невидимая страница</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>06998479-487E-0533-334E-EA58E7C1EBA1</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="НевидимаяСтраницаРасширеннаяПодсказка" id="290"/>
@@ -673,8 +673,8 @@
 							<Height>2</Height>
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Гиперссылка только просмотр</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>18417E02-9986-62BC-CDFE-E8F95367B9EA</v8:content>
 								</v8:item>
 							</Title>
 							<Hyperlink>true</Hyperlink>
@@ -696,14 +696,14 @@
 				<Page name="Группа2ПроверкаКнопок" id="127">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Проверка кнопок</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7A731150-E8A1-F96F-F445-5C7F52D0BE4F</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа2 проверка кнопок</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A275AE30-3858-0E8F-F7D4-461BAC9F0434</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="Группа2ПроверкаКнопокРасширеннаяПодсказка" id="128"/>
@@ -711,14 +711,14 @@
 						<UsualGroup name="ГруппаСЭлементамиСОдинаковымЗаголовком1" id="297">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа с элементами с одинаковым заголовком1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>AF295466-5BD9-1EBC-C5F4-4C9161D209B8________</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа с элементами с одинаковым заголовком1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>40137F49-6EB1-DA2E-E2E6-627070595ADE________</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -731,8 +731,8 @@
 									<Height>2</Height>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Гиперссылка только просмотр картинка</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>962AD039-6794-A7EC-C598-804B53A3C855</v8:content>
 										</v8:item>
 									</Title>
 									<Hyperlink>true</Hyperlink>
@@ -754,8 +754,8 @@
 									<ReadOnly>true</ReadOnly>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Гиперссылка только просмотр картинка</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>950D3104-12B0-0C2B-B7EB-B0574843A5B5</v8:content>
 										</v8:item>
 									</Title>
 									<ContextMenu name="ПолеДублирующееЗаголовокКонтекстноеМеню" id="300"/>
@@ -766,14 +766,14 @@
 						<UsualGroup name="ГруппаСЭлементамиСОдинаковымЗаголовком2" id="302">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа с элементами с одинаковым заголовком2</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>18C89E21-AC4D-A020-075E-EB33A82D8949________</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа с элементами с одинаковым заголовком2</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>6711C34C-A602-B867-7770-076C849F9ABA________</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -786,8 +786,8 @@
 									<Height>2</Height>
 									<Title formatted="false">
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Гиперссылка только просмотр надпись</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>37F65C40-9EF5-AAAA-AF07-7905088D4286</v8:content>
 										</v8:item>
 									</Title>
 									<Hyperlink>true</Hyperlink>
@@ -802,8 +802,8 @@
 									<ReadOnly>true</ReadOnly>
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Гиперссылка только просмотр надпись</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>7B04C6EB-CF90-1643-3445-54ADC0FDF762</v8:content>
 										</v8:item>
 									</Title>
 									<ContextMenu name="ПолеДублирующееЗаголовок2КонтекстноеМеню" id="305"/>
@@ -827,8 +827,8 @@
 							<Parameter xsi:nil="true"/>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>ЗаполнитьРекСтрока</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>4E7A4B5F-6C63-BE39-9CFF-F7615D0C421D</v8:content>
 								</v8:item>
 							</Title>
 							<ExtendedTooltip name="ЗаполнитьРекСтрока1РасширеннаяПодсказка" id="136"/>
@@ -839,8 +839,8 @@
 							<Parameter xsi:nil="true"/>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>ЗаполнитьРекСтрока</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>D75C8821-F2AB-29C5-5402-2B66D83A5088</v8:content>
 								</v8:item>
 							</Title>
 							<ExtendedTooltip name="ЗаполнитьРекСтрока2РасширеннаяПодсказка" id="138"/>
@@ -875,14 +875,14 @@
 				<Page name="ГруппаДекорацияФормы" id="139">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа декорация формы</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>4910DA60-0C82-DEE9-9C15-5C917DB2D5D2</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа декорация формы</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>3195A19B-1713-6D7F-F3ED-DA282B42820B</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="ГруппаДекорацияФормыРасширеннаяПодсказка" id="140"/>
@@ -890,8 +890,8 @@
 						<LabelDecoration name="ДекорацияФормыСсылка" id="144">
 							<Title formatted="false">
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>ДекорацияФормыСсылка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>415FF9E8-515B-1B21-13F8-84A52AA74749</v8:content>
 								</v8:item>
 							</Title>
 							<Hyperlink>true</Hyperlink>
@@ -906,8 +906,8 @@
 							<DataPath>Объект.Description</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Наименование надписью</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>DB8C47DD-188C-1F74-4B0B-B7A3AC54C96F</v8:content>
 								</v8:item>
 							</Title>
 							<ContextMenu name="НаименованиеНадписьюКонтекстноеМеню" id="186"/>
@@ -918,14 +918,14 @@
 				<Page name="ФД" id="188">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ФД</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>860C88BC-8420-7987-72FD-DE1E13CABCAE</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ФД</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>D16EE420-4F61-6C4F-F3C4-414B5095BA62</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="ФДРасширеннаяПодсказка" id="189"/>
@@ -940,8 +940,8 @@
 				<Page name="ГруппаТД" id="307">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ТД</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>85112CE0-2AFA-208F-FF27-7E722DA30BF2</v8:content>
 						</v8:item>
 					</Title>
 					<ExtendedTooltip name="ГруппаТДРасширеннаяПодсказка" id="308"/>
@@ -957,14 +957,14 @@
 				<Page name="ВидимостьЭлементов" id="196">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Видимость элементов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>08C323DB-E14C-4FCC-C4DD-D4B35B901E75</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Видимость элементов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>273161B1-9C3D-82A1-150F-F025347CF9B3</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="ВидимостьЭлементовРасширеннаяПодсказка" id="197"/>
@@ -978,14 +978,14 @@
 						<UsualGroup name="НевидимаяГруппа1" id="198">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>339C22DF-F5A7-9F6E-E713-3A3822ADFE35</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>7C596433-1DC5-288E-EB00-038BD9A1B64E</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Representation>None</Representation>
@@ -1007,14 +1007,14 @@
 						<UsualGroup name="НевидимаяГруппа21" id="205">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа21</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>81A3FE89-0EA7-F027-7657-7F43A8B43735</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа21</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>076BC535-9082-B5B3-39C9-9422DA81D1AB</v8:content>
 								</v8:item>
 							</ToolTip>
 							<ExtendedTooltip name="НевидимаяГруппа21РасширеннаяПодсказка" id="206"/>
@@ -1022,14 +1022,14 @@
 								<UsualGroup name="НевидимаяГруппа22" id="207">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Невидимая группа22</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>9B0CC31F-0E32-BCC8-85B6-6BC4A1D85C95</v8:content>
 										</v8:item>
 									</Title>
 									<ToolTip>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Невидимая группа22</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>40E18353-3661-C3C7-7236-6C546B9830E6</v8:content>
 										</v8:item>
 									</ToolTip>
 									<ExtendedTooltip name="НевидимаяГруппа22РасширеннаяПодсказка" id="208"/>
@@ -1052,14 +1052,14 @@
 						<UsualGroup name="НевидимаяГруппа3" id="214">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа3</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>058B1F6E-1882-3ADD-D93B-BC69BA25A95A</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Невидимая группа3</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>11D45745-F350-A08C-CCE1-1E310C8C0030</v8:content>
 								</v8:item>
 							</ToolTip>
 							<ExtendedTooltip name="НевидимаяГруппа3РасширеннаяПодсказка" id="215"/>
@@ -1136,14 +1136,14 @@
 				<Page name="ДоступностьЭлементов" id="266">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Доступность элементов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CCDE7822-9A2F-35A7-7F25-5EF289A5C0B3</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Доступность элементов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>73E29703-53A5-FA7A-AABB-BB010C4B73BD</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="ДоступностьЭлементовРасширеннаяПодсказка" id="267"/>
@@ -1157,14 +1157,14 @@
 						<UsualGroup name="НедоступнаяГруппа1" id="268">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Недоступная группа1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>3C7D992C-6538-2480-0ACC-C1B230D2422B</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Недоступная группа1</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>DFCCF092-05FF-F882-29E0-0C786DDDF00C</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -1182,14 +1182,14 @@
 				<Page name="ГруппаТолькоПросмотрЭлементов" id="312">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Только просмотр элементов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>1F13C5F5-9B1B-70D7-79F5-501EB7388FC9</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа только просмотр элементов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>B6CD7A96-6C98-FF04-4598-87C0E81B8F35</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="ГруппаТолькоПросмотрЭлементовРасширеннаяПодсказка" id="313"/>
@@ -1203,14 +1203,14 @@
 						<UsualGroup name="ГруппаТолькоПросмотр" id="314">
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа только просмотр</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>5D81C849-BAAD-13F3-36E7-7224505FB743</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа только просмотр</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>3021C26F-41AB-BF2E-E6E7-7FB8C53814E8</v8:content>
 								</v8:item>
 							</ToolTip>
 							<Group>Horizontal</Group>
@@ -1239,8 +1239,8 @@
 		<Attribute name="РеквизитСтандартныйПериод" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Реквизит стандартный период</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4F8D1AEC-ECCA-BEBA-A629-9CDB4EB8D37E</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1250,8 +1250,8 @@
 		<Attribute name="РеквизитМногострочнаяСтрока" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Реквизит многострочная строка</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>97D5AF89-EDCC-9541-1AD3-33D72D7A1360</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1265,8 +1265,8 @@
 		<Attribute name="ФорматированныйДокументНаФорме" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Форматированный документ на форме</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>33709057-A7EF-2A8B-BAE9-9BDF827D3636</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1276,8 +1276,8 @@
 		<Attribute name="НадписьФорматированнаяСтрока" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Надпись форматированная строка</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F80D6716-3C03-7A40-0E42-2660B21E903A</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1287,8 +1287,8 @@
 		<Attribute name="ЭлементНевидимаяГруппа1" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Элемент невидимая группа1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B491D736-6B07-E062-252A-AC407DD2BB1C</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1302,8 +1302,8 @@
 		<Attribute name="ЭлементНевидимаяГруппа2" id="7">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Элемент невидимая группа2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>67273E81-ABF8-69E9-9AC9-974D5DE1B9B6</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1317,8 +1317,8 @@
 		<Attribute name="НевидимаяТаблица" id="8">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Невидимая таблица</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>97BB9162-5B71-085C-C4ED-D4E1FC89D373</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1348,8 +1348,8 @@
 		<Attribute name="ЭлементНедоступнаяГруппа1" id="9">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Элемент недоступная группа1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9B90E141-49AE-C517-7681-1DFDC9E52651</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1363,8 +1363,8 @@
 		<Attribute name="ПолеДублирующееЗаголовок1" id="10">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Поле дублирующее заголовок1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F68D438E-2E12-B1C0-0FB0-0836181870AA</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1378,8 +1378,8 @@
 		<Attribute name="ПолеДублирующееЗаголовок2" id="11">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Поле дублирующее заголовок2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>BEF7DD25-C05F-7789-9DD7-73B858A0E15B</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1393,8 +1393,8 @@
 		<Attribute name="ЭлементТолькоПросмотр1" id="12">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Элемент только просмотр1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>10F6A30A-D56A-A703-3693-371A3ED96D6A</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -1410,14 +1410,14 @@
 		<Command name="ЗаполнитьРекСтрока1" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Заполнить рек строка1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E143F0C8-3887-9971-194F-F6435AF175A5</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Заполнить рек строка1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>AB9A1798-326C-E654-4E91-12DB23F0217C</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ЗаполнитьРекСтрока1</Action>
@@ -1425,14 +1425,14 @@
 		<Command name="ЗаполнитьРекСтрока2" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Заполнить рек строка2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A1CCFC6F-4DBB-9461-1A6F-FD7599085C7B</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Заполнить рек строка2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5940D772-4641-1348-868B-BB28AB10C364</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ЗаполнитьРекСтрока2</Action>
@@ -1440,14 +1440,14 @@
 		<Command name="КомандаДляКомандногоИнтерфейса" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Команда для командного интерфейса</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4F5B88C0-680D-4315-56C9-94C34B989462</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Команда для командного интерфейса</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1E807AF0-1846-9E8F-FC9A-A5EB949C1A2A</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>КомандаДляКомандногоИнтерфейса</Action>
@@ -1455,14 +1455,14 @@
 		<Command name="ВывестиПредупреждение" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Вывести предупреждение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>FC326376-E199-70FF-F441-10FBE7CD5F70</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Вывести предупреждение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>584BD44A-712A-4AAC-C9A4-4F0B406824C3</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ВывестиПредупреждение</Action>
@@ -1470,14 +1470,14 @@
 		<Command name="ВвестиВНаименованиеИмяПользовтаеля" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Ввести в наименование имя пользовтаеля</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5C6DEFDC-E2F1-9CBB-B393-322846E65769__</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Ввести в наименование имя пользовтаеля</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5284F961-0C34-A3BA-ADB1-1DF5D5CD9DA3__</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ВвестиВНаименованиеИмяПользовтаеля</Action>
@@ -1485,14 +1485,14 @@
 		<Command name="ОткрытьСписокЗначениейСПометками" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Открыть список значенией с пометками</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>889BEECA-9893-DA3D-DD3E-ECD910A29AAE</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Открыть список значенией с пометками</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>AAAD3EAF-BA72-AEAC-C6C5-552583793860</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ОткрытьСписокЗначениейСПометками</Action>
@@ -1500,14 +1500,14 @@
 		<Command name="ДобавитьМногострочнуюСтрокуВТЧ" id="7">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Добавить многострочную строку в ТЧ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>0D422DEC-6556-7A9D-D1B4-4EF626FF9F0F</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Добавить многострочную строку ВТЧ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>51FC6637-4DEB-E8CA-A28C-CADDB6A5A65E</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ДобавитьМногострочнуюСтрокуВТЧ</Action>
@@ -1515,14 +1515,14 @@
 		<Command name="ВызватьИсключение" id="8">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Вызвать исключение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>BBD73255-8B8E-2E29-98F0-089CBBF852C7</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Вызвать исключение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>CE98A641-A3A3-27E5-5B10-090BFA0E2CE3</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ВызватьИсключениеПроцедура</Action>
@@ -1530,14 +1530,14 @@
 		<Command name="КонтекстноеМенюНаименование" id="9">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекстное меню наименование</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4A820550-519A-D33E-EBC0-0B392A49083E</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекстное меню наименование</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9B8C3898-480D-D326-6C71-1DE9CBCA7DA1</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>КонтекстноеМенюНаименование</Action>
@@ -1545,14 +1545,14 @@
 		<Command name="КонтекстноеМенюТабличнаяЧасть1" id="10">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекстное меню табличная часть1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>67AB825F-5850-9866-6131-1E9ADB2A0AF7</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекстное меню табличная часть1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>DFE533CA-2BA1-7CB3-33CE-E4A822E9F2EE</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>КонтекстноеМенюТабличнаяЧасть1</Action>
@@ -1560,14 +1560,14 @@
 		<Command name="СкрытьНевидимаяГруппа1" id="11">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть невидимая группа 1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>0C923015-E97B-345E-EE18-860260A955E0</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть невидимая группа1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>11BB1CBB-927B-A1D6-6951-1B735012E8A9</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СкрытьНевидимаяГруппа1</Action>
@@ -1575,14 +1575,14 @@
 		<Command name="СкрытьНевидимаяГруппа21" id="12">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть невидимая группа 21</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>810D651A-8C60-7AFB-B431-19615A854B58</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть невидимая группа21</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>15B1B289-62EA-5E62-2DDE-E72732BABC8D</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СкрытьНевидимаяГруппа21</Action>
@@ -1590,14 +1590,14 @@
 		<Command name="КомандаВНевидимойТаблице" id="13">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Команда в невидимой таблице</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E1CEDCB5-74CD-6CB4-4913-3993CEA84958</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Команда в невидимой таблице</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>17EFA862-D64A-B6A3-3C6A-A1B98E90FEB4</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>КомандаВНевидимойТаблице</Action>
@@ -1605,14 +1605,14 @@
 		<Command name="СкрытьНевидимаяГруппа3" id="14">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть невидимая группа 3</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F156F9B1-88E8-BBDE-E169-97941A61D8FF</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть невидимая группа3</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>2740A683-E098-7E26-64F9-976D41000507</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СкрытьНевидимаяГруппа3</Action>
@@ -1620,14 +1620,14 @@
 		<Command name="СкрытьКнопкуВТаблице" id="15">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть кнопку в таблице</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>AA9C18E6-8223-C849-9EA5-53E27B43295B</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скрыть кнопку в таблице</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>34EA0CB3-702A-F6F2-2EF6-617E79F63759</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СкрытьКнопкуВТаблице</Action>
@@ -1635,14 +1635,14 @@
 		<Command name="НедоступнаяКоманда" id="16">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Недоступная команда</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>C03DE301-6FAD-A528-8F28-8912397A2CBE</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Недоступная команда</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>570C52DD-BEA1-5162-2B0C-C10373C5111E</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>НедоступнаяКоманда</Action>
@@ -1650,14 +1650,14 @@
 		<Command name="СделатьГруппуНедоступной" id="17">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать группу недоступной</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>6814D6A1-EBE8-E3E8-843F-F7C798FBD0FC</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать группу недоступной</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>097FFD06-F3D0-165E-ECC1-1A51F824A40B</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СделатьГруппуНедоступной</Action>
@@ -1665,14 +1665,14 @@
 		<Command name="СделатьГруппеТолькоПросмотр" id="18">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать группе только просмотр</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>087D2DA6-9C3F-1A70-090B-B1F1A168F7DF</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сделать группе только просмотр</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>C63EDCB0-9D05-D11F-FC7F-F28D363607D0</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СделатьГруппеТолькоПросмотр</Action>

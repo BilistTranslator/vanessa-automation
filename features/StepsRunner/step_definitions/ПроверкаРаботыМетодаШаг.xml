@@ -15,8 +15,8 @@
 			<Name>ПроверкаРаботыМетодаШаг</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПроверкаРаботыМетодаШаг</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>C2B66EA8-2F7E-E011-1138-8CB32A164212</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>AFD5EFA9-D3E0-8E83-3034-45ECEAAD5AE3</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>88D6F66A-355C-FD12-248D-D1F9B0480AD2</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

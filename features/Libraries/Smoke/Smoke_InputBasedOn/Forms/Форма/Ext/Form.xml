@@ -25,8 +25,8 @@
 		<Attribute name="УказыватьДокументОснование" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Указывать документ основание</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D3DD6FC7-0D3A-7987-7B3B-BC7BE0F218CC</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -38,14 +38,14 @@
 		<Command name="ГенерацияФич" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Генерация фич</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>8FB94C90-83D0-8850-09D3-3CA6522AD4C7</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Генерация фич</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>511DAC1B-1EC4-DFA2-2A17-742FB98FD9B8</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ГенерацияФич</Action>

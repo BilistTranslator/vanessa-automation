@@ -46,13 +46,13 @@
 		<LabelDecoration name="Декорация1" id="13">
 			<Title formatted="false">
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Реквизит1 - стандартный
-Реквизит2 - не видим
-Реквизит3 - не доступен
-Реквизит4 - только просмотр
-НоваяКнопка  - создается видимой
-НоваяКнопка2 - создается не видимой</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>59ED0203-5C1A-E51A-AB41-1ED83E3A1244
+____________________
+_______________________
+___________________________
+________________________________
+___________________________________</v8:content>
 				</v8:item>
 			</Title>
 			<ContextMenu name="Декорация1КонтекстноеМеню" id="14"/>
@@ -184,8 +184,8 @@
 		<Attribute name="ТЗ" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ТЗ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D9FB0C01-BD1B-C16C-C25A-A682E19B8E08</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -195,8 +195,8 @@
 				<Column name="ВидимаяКолонка" id="1">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Видимая колонка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C31ED4F1-01DE-20EA-A644-4E3181D8A951</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -210,8 +210,8 @@
 				<Column name="СкрытаяКолонка" id="2">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Скрытая колонка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>8AB26038-D23F-4EEF-F542-2E2E32CD8E0E</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -225,8 +225,8 @@
 				<Column name="ДоступнаяКолонка" id="3">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Доступная колонка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>4E12A424-2CFD-6E12-21E0-0BC944238F79</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -240,8 +240,8 @@
 				<Column name="НеДоступнаяКолонка" id="4">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Не доступная колонка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>54DD3183-1D98-4928-8321-1EE1123AB19E</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -255,8 +255,8 @@
 				<Column name="КолонкаТолькоПросмотр" id="5">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Колонка только просмотр</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>B30829F2-62A1-4CB3-36D6-652B21432C42</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -270,8 +270,8 @@
 				<Column name="Реквизит4" id="6">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит4</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>0F0F6B90-271D-0717-710D-D8F6BC509D1C</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -289,14 +289,14 @@
 		<Command name="СоздатьКнопку" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Создать кнопку</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>34F1F1E1-3516-BF9A-A4FC-C2EBF48D8357</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Создать кнопку</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>85D4519A-D64A-2D02-2A5B-B25D6027A978</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СоздатьКнопку</Action>
@@ -304,14 +304,14 @@
 		<Command name="НоваяКнопка" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Новая кнопка</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>55AAFBEB-23B5-7AAD-DBCC-CE2FF428387B</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Новая кнопка</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B4CFAF2A-5835-A186-6BF9-993BBA553016</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>НоваяКнопка</Action>
@@ -319,14 +319,14 @@
 		<Command name="УдалитьКнопку" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Удалить кнопку</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>FCC58132-941D-AC3E-EE0B-B515274CAB71</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Удалить кнопку</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1E69F8D6-EDDC-5A8D-D670-0258DD277099</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>УдалитьКнопку</Action>

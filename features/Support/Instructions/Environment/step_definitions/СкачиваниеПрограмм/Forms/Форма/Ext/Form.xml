@@ -2,8 +2,8 @@
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
 	<Title>
 		<v8:item>
-			<v8:lang>ru</v8:lang>
-			<v8:content>Тест_ СкачиваниеПрограмм</v8:content>
+			<v8:lang>hash</v8:lang>
+			<v8:content>8A87FB12-1B50-9618-852B-BE4018375B3C</v8:content>
 		</v8:item>
 	</Title>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
@@ -27,8 +27,8 @@
 		<Attribute name="Контекст" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекст</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1DC1A2DC-5207-1760-00EC-C3B9D608AFF4</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -36,8 +36,8 @@
 		<Attribute name="КонтекстСохраняемый" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекст</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F7CCE905-663B-7FCF-F983-33A64DA9B0E0</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -45,8 +45,8 @@
 		<Attribute name="БраузерПринудительноЗакрывался" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Браузер принудительно закрывался</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D9C901B2-3914-8ECF-FB94-488A5BE32202</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -56,8 +56,8 @@
 		<Attribute name="ЮнитТестированиеИмя" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Юнит тестирование имя</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>06C4FEB9-228F-7934-4373-3DC5CB7E524D</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>

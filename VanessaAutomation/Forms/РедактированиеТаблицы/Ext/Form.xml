@@ -28,8 +28,8 @@
 					<DataPath>ТаблицаНаФорме</DataPath>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Таблица на форме</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>96A8F407-CB72-F9FF-F2ED-D28A6DFBDDDD</v8:content>
 						</v8:item>
 					</Title>
 					<RowFilter xsi:nil="true"/>
@@ -74,8 +74,8 @@
 					<RowPictureDataPath>СписокКолонок.Picture</RowPictureDataPath>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Список колонок</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>897B7994-6DB3-FBF1-1194-45768BC6A34D</v8:content>
 						</v8:item>
 					</Title>
 					<ContextMenu name="СписокКолонокКонтекстноеМеню" id="20"/>
@@ -161,8 +161,8 @@
 		<Attribute name="ТаблицаНаФорме" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Таблица на форме</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>254DBC4E-A61D-D283-3B65-5725DAB72E25</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -172,8 +172,8 @@
 		<Attribute name="СписокКолонок" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Список колонок</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>11533523-B9B7-4A4E-EC61-16C471BF33AE</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -186,14 +186,14 @@
 		<Command name="ПометитьВсе" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Пометить все</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>93540E12-4FA8-6A60-0BA8-85DDA67E7A6C</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Пометить все</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>3E6810A8-498C-82A2-2827-7E5CC6A1054E</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ПометитьВсе</Action>
@@ -201,14 +201,14 @@
 		<Command name="СнятьВсе" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Снять все</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>33813786-0D70-17FB-B30A-AED358D29D92</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Снять все</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5EC4367F-FE42-179F-F587-7FFE9CB65EF9</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СнятьВсе</Action>
@@ -216,14 +216,14 @@
 		<Command name="ОК" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОК</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>AE29059D-525C-0202-232C-C831653816CC</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОК</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>00C0F9B9-823F-48DB-BAAA-AC7A64437D38</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ОК</Action>

@@ -15,8 +15,8 @@
 			<Name>ОтрицательныеЧисла</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОтрицательныеЧисла</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>C31AF01E-897A-903C-CEFE-EB5AEFEFCAD9</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>6276BAB9-C318-863C-C1E7-79EA7A783D34</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>0ED999AB-E3A2-5DCA-A228-8BF66F197CC0</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

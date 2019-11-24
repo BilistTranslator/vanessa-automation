@@ -15,8 +15,8 @@
 			<Name>ОткрытиеТонкойФормы</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОткрытиеТонкойФормы</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4729CBF1-DA93-E6B8-8B67-72FC7F04581C</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7BDE32A3-951D-BBDB-BC85-5348DB068C03</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>60FF1F34-5B5A-8593-3925-5A275EAF6771</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

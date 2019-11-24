@@ -27,8 +27,8 @@
 			<Name>Валюты</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Валюты</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>07D1DF80-A01B-0883-35A9-968963AA74EE</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -89,8 +89,8 @@
 					<Name>КодЦифровой</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Код цифровой</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CBFB1056-1BF8-3552-25EB-BE6F793C2FC3</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -133,8 +133,8 @@
 					<Name>КодМеждународный</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Код международный</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>6359F8FB-B785-F86E-E27E-EE258E9EDBF7</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -176,8 +176,8 @@
 					<Name>Курс</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Курс</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C43F895A-FDC1-A2BF-FEC7-7C3441F3209F</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

@@ -13,8 +13,8 @@
 					<xr:Value xsi:type="FormChoiceListDesTimeValue">
 						<Presentation>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>FILE</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>05C403BF-2B4A-4C8E-EEEA-A3DD5147B503</v8:content>
 							</v8:item>
 						</Presentation>
 						<Value xsi:type="xs:string">FILE</Value>
@@ -26,8 +26,8 @@
 					<xr:Value xsi:type="FormChoiceListDesTimeValue">
 						<Presentation>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>CONSUL</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>BA5E4783-F904-F3A8-876C-C900716208A8</v8:content>
 							</v8:item>
 						</Presentation>
 						<Value xsi:type="xs:string">CONSUL</Value>
@@ -58,8 +58,8 @@
 		<Attribute name="АдресПользовательскихНастроек" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Адрес пользовательских настроек</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>270D30AB-D46A-A3E1-174A-A275B3186774</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -73,8 +73,8 @@
 		<Attribute name="ПоставщикПользовательскихНастроек" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Поставщик пользовательских настроек</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>965F8CFA-EC9D-A80F-F2AC-CE800AF17EED</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -90,14 +90,14 @@
 		<Command name="ЗагрузитьНастройкиКоманда" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить настройки</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>2DD1D628-673D-E6F8-807F-F706AAA58CE7</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить настройки команда</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>0F4B3947-BE81-D843-35E6-666B93AC77A2</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ЗагрузитьНастройкиКоманда</Action>

@@ -135,8 +135,8 @@
 		<Attribute name="Таблица1" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Таблица1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>6D1A3CBE-17CD-F19C-CC6C-CC8B3189F144</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -146,8 +146,8 @@
 				<Column name="Колонка1" id="1">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Колонка1</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>8569634F-0962-B90D-DC90-0111513B0A2B</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -161,8 +161,8 @@
 				<Column name="Колонка2" id="2">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Колонка2</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E7591C55-5AB9-07C5-52FA-A84986A326CE</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -178,8 +178,8 @@
 		<Attribute name="Таблица2" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Таблица</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>96C217E4-A58D-C4FF-F3F3-3AD2A1711A93</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -189,8 +189,8 @@
 				<Column name="Колонка1" id="1">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Колонка1</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>9FC8DCD8-AC41-ACF4-4F67-7D1B1D2A22E3</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -204,8 +204,8 @@
 				<Column name="Колонка2" id="2">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Колонка2</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>8E9B7EB8-767B-424C-CE5F-F48A654380F2</v8:content>
 						</v8:item>
 					</Title>
 					<Type>

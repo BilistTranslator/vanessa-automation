@@ -15,8 +15,8 @@
 			<Name>Issue_53ВызватьОшибкуПриВыполненииТаймера</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Issue-53ВызватьОшибкуПриВыполненииТаймера</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>233B6F8B-085A-FEE1-1F15-5309A38A3880_____</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7B160ED7-2FA3-F6F1-176C-CE755912499B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>60DDE980-DAE3-DA59-941B-B272D1A7258B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

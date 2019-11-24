@@ -15,8 +15,8 @@
 			<Name>ПодключениеСценарияКакШага</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПодключениеСценарияКакШага</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>7BD595A6-8BF8-4FDA-AF8A-AEDE460AE607</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E5176F34-128A-8500-03D7-7C43A5D82E74</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>803B95F8-5C0B-1D93-36A1-188A178A13C0</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

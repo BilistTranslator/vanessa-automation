@@ -15,8 +15,8 @@
 			<Name>ПерегенерацияEPFШагиНеИзФичи</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПерегенерацияEPFШагиНеИзФичи</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B54DA80F-8A47-ABC8-80F1-117169C070A2</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>3C96028E-C750-B3D2-2384-45F75F28AF97</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>DA7B857F-115D-8D4E-E2E0-04C36AD3BDC4</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

@@ -24,8 +24,8 @@
 		<Attribute name="ТекстВыражения" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Текст выражения</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4C15DBF1-31DB-796A-A14E-E6CCCCF96501</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -41,14 +41,14 @@
 		<Command name="ВыполнитьВыражение" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Выполнить выражение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>AF375080-2C0A-189E-EFFF-FEA45A201004</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Выполнить выражение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>83E2135F-A56C-4C03-39D4-450BF7586928</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ВыполнитьВыражение</Action>

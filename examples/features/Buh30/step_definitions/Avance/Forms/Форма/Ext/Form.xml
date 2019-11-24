@@ -18,8 +18,8 @@
 		<Attribute name="Контекст" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекст</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9EA9DD21-E6BD-FCC0-0567-7A2488712FFA</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -27,8 +27,8 @@
 		<Attribute name="КонтекстСохраняемый" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекст</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>337D626A-73E5-1951-13E1-15DE89A7A5FC</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>

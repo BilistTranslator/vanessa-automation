@@ -15,8 +15,8 @@
 			<Name>ФичаДляПроверкиИзмененияСтатусаШагаНаFailedПриРаботеСТаймером</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ФичаДляПроверкиИзмененияСтатусаШагаНаFailedПриРаботеСТаймером</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D0F2813C-321C-AB67-7C31-177CCF4A5C73_________________________</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CB31D2CA-DAA4-4205-5854-450E15568676</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>30DF21A3-EB66-C44B-B690-0ADAE264930C</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

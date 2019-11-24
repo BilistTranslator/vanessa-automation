@@ -2,88 +2,8 @@
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
 	<Title>
 		<v8:item>
-			<v8:lang>ru</v8:lang>
-			<v8:content>Детали ошибки</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>en</v8:lang>
-			<v8:content>Error details</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>am</v8:lang>
-			<v8:content>ስህተት ዝርዝሮች</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>az</v8:lang>
-			<v8:content>Ətraflı səhvlər</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>bg</v8:lang>
-			<v8:content>Детайли грешки</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>et</v8:lang>
-			<v8:content>Osad vead</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>fr</v8:lang>
-			<v8:content>Détails de l'erreur</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>ka</v8:lang>
-			<v8:content>შეცდომა დეტალები</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>de</v8:lang>
-			<v8:content>Details Fehler</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>hu</v8:lang>
-			<v8:content>Hiba részletek</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>it</v8:lang>
-			<v8:content>Dettagli errore</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>lv</v8:lang>
-			<v8:content>Detaļas kļūdas</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>lt</v8:lang>
-			<v8:content>Detales klaidas</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>mn</v8:lang>
-			<v8:content>Алдаа дэлгэрэнгүй</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>pl</v8:lang>
-			<v8:content>Szczegóły błędu</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>ro</v8:lang>
-			<v8:content>Detaliile de eroare</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>sl</v8:lang>
-			<v8:content>Napaka podrobnosti</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>es</v8:lang>
-			<v8:content>Detalles del error</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>sv</v8:lang>
-			<v8:content>Information om fel</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>tr</v8:lang>
-			<v8:content>Hata detayları</v8:content>
-		</v8:item>
-		<v8:item>
-			<v8:lang>vi</v8:lang>
-			<v8:content>Chi tiết lỗi</v8:content>
+			<v8:lang>hash</v8:lang>
+			<v8:content>A4480CEB-2E71-0AB7-740F-FAE603674450</v8:content>
 		</v8:item>
 	</Title>
 	<Width>50</Width>
@@ -139,8 +59,8 @@
 		<Attribute name="ТекстОшибки" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Текст ошибки</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1439C09C-A5B8-60D4-4E14-42715FD5D1A0</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -154,8 +74,8 @@
 		<Attribute name="ТаблицаЭталон" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Таблица эталон</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>821E4139-351D-F8D1-1FA5-51CFDDA03E8F</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -163,8 +83,8 @@
 		<Attribute name="ТаблицаТекущееЗначение" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Таблица текущее значение</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>8458B9AF-48F3-09AD-D586-6FADFF20DC13</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -172,12 +92,8 @@
 		<Attribute name="КаталогИнструментов" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Каталог инструментов</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>Thư mục công cụ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>4AD5AB75-D076-7A3D-D988-8BDBD7FA5F57</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -191,88 +107,8 @@
 		<Attribute name="ТолькоТекстЯчеек" id="7">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Только текст ячеек</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Cell text only</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>am</v8:lang>
-					<v8:content>ብቻ ጽሑፍ ነው ሕዋሳት</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>az</v8:lang>
-					<v8:content>Yalnız mətn hüceyrələri</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>bg</v8:lang>
-					<v8:content>Само текста на клетки</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>et</v8:lang>
-					<v8:content>Ainult lahtrite tekst</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>fr</v8:lang>
-					<v8:content>Seulement le texte des cellules</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>ka</v8:lang>
-					<v8:content>მხოლოდ ტექსტის უჯრედების</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>de</v8:lang>
-					<v8:content>Nur der Text der Zellen</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>hu</v8:lang>
-					<v8:content>Csak a szöveg a sejtek</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>it</v8:lang>
-					<v8:content>Solo il testo delle celle</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>lv</v8:lang>
-					<v8:content>Tikai teksts, šūnu</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>lt</v8:lang>
-					<v8:content>Tik tekstas langelių</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>mn</v8:lang>
-					<v8:content>Зөвхөн текст эс</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>pl</v8:lang>
-					<v8:content>Tylko tekst komórek</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>ro</v8:lang>
-					<v8:content>Doar textul de celule</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>sl</v8:lang>
-					<v8:content>Samo besedilo celice</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>es</v8:lang>
-					<v8:content>Sólo el texto de las celdas</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>sv</v8:lang>
-					<v8:content>Endast texten i cellerna</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>tr</v8:lang>
-					<v8:content>Sadece metin bir hücre</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>Chỉ nội dung của ô</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>671347E7-9E6D-D4D1-1770-01E1FD3891F2</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -285,12 +121,8 @@
 		<Attribute name="СУчетомРегулярныхВыражений" id="8">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сравнение с учетом символа *</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Taking into *</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5F537B6D-D893-FD40-08B6-6EE39F431F60</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -302,98 +134,14 @@
 		<Command name="СравнитьТаблицы" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сравнить таблицы</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Compare tables</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>am</v8:lang>
-					<v8:content>መገለጫዎ.</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>az</v8:lang>
-					<v8:content>Müqayisə masa</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>bg</v8:lang>
-					<v8:content>Сравни таблица</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>et</v8:lang>
-					<v8:content>Võrrelda tabelis</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>fr</v8:lang>
-					<v8:content>Comparer les tables</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>ka</v8:lang>
-					<v8:content>შეადარეთ მაგიდა</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>de</v8:lang>
-					<v8:content>Tabellen vergleichen</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>hu</v8:lang>
-					<v8:content>Hasonlítsa össze táblázat</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>it</v8:lang>
-					<v8:content>Confronta tabella</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>lv</v8:lang>
-					<v8:content>Salīdzināt tabulas</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>lt</v8:lang>
-					<v8:content>Palyginti lentelės</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>mn</v8:lang>
-					<v8:content>Харьцуулж хүснэгт</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>pl</v8:lang>
-					<v8:content>Porównać tabele</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>ro</v8:lang>
-					<v8:content>Compara tabel</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>sl</v8:lang>
-					<v8:content>Primerjaj tabelo</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>es</v8:lang>
-					<v8:content>Comparar la tabla</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>sv</v8:lang>
-					<v8:content>Jämför tabell</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>tr</v8:lang>
-					<v8:content>Fiyat karşılaştır tablo</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>So sánh bảng</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>42BA755E-3729-DBD4-4578-8ACEC5BAAA7D</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сравнить таблицы</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>So sánh bảng</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5985BABC-8846-AE49-9AB7-7EB0A6E736AB</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>СравнитьТаблицы</Action>

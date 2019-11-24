@@ -15,8 +15,8 @@
 			<Name>ПроверкаМетодаШагОФ</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПроверкаМетодаШагОФ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D6B82CBC-9502-5F3B-BC78-8524E668BDE6</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>8A312A4B-3C61-B840-0ECF-FCA22C45E61E</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>EBEFCB70-8F4E-94A4-4732-2A6B4E1E665B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

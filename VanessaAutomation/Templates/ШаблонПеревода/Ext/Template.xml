@@ -90,12 +90,8 @@
 					<f>6</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Шаг оригинал</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>vi</v8:lang>
-							<v8:content>Bước gốc</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>6E62CA9B-D2CF-A523-35ED-D86FBBB75CB6</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -105,12 +101,8 @@
 					<f>6</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Описание</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>vi</v8:lang>
-							<v8:content>Mô tả</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E63913EA-B287-26B4-4305-5A318681DF24</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -120,8 +112,8 @@
 					<f>6</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Перевод шага</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>487A20EE-911D-46A1-1E2D-DB67E7521880</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -131,8 +123,8 @@
 					<f>6</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Перевод описания</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>5DD33B90-20FA-EE31-19E3-3D6B4C4984F6</v8:content>
 						</v8:item>
 					</tl>
 				</c>

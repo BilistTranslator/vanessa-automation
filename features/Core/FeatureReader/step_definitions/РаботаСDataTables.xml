@@ -15,8 +15,8 @@
 			<Name>РаботаСDataTables</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>РаботаСDataTables</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9A9C82E3-DC22-0221-1C72-20B31243110E</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>D1CC4300-6A70-B0F8-87DB-B5A701835A78</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7F93CD96-8DB8-7239-9EE6-656A5C54644A</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

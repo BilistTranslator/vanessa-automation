@@ -5,12 +5,8 @@
 			<Name>ИсследовательФормы</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Исследователь формы</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>Các nhà nghiên cứu biểu mẫu</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>8F20695A-0244-6E6C-CCCF-FC73D7AD0092</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

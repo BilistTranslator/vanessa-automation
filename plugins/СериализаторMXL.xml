@@ -15,8 +15,8 @@
 			<Name>СериализаторMXL</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Генерация макета на базе реальных данных для xUnitFor1C</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>153FBB56-5840-85BD-D6A0-0AECBBE305C0___________________</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment>Автор - Артур Аюханов aka artbear</Comment>
@@ -29,8 +29,8 @@
 					<Name>ЭтоВстроеннаяОбработка</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Это встроенная обработка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>32319829-0488-43BE-ED05-5D0386478BF6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -63,8 +63,8 @@
 					<Name>ДеревоМетаданных</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дерево метаданных</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>99775D93-DE66-0376-6C6A-AF544FA7ECD4</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -97,8 +97,8 @@
 					<Name>ДатаНачала</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата начала</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>5B5DA4B2-0500-7A32-2818-8C01129B53CF</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -134,8 +134,8 @@
 					<Name>ДатаОкончания</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дата окончания</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CBC84DFD-795B-2A47-7F55-5412023BA3E1</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -171,8 +171,8 @@
 					<Name>ИспользоватьОтборПоДатеДляВсехОбъектов</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Использовать отбор по дате для всех объектов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>47E7C50A-A8DB-A11C-C063-3E495EAAE2E8________</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -205,8 +205,8 @@
 					<Name>ВыгружатьСДокументомЕгоДвижения</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Выгружать с документом его движения</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>42C31375-2637-1AD0-0512-2933CDE3CCD9</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -239,8 +239,8 @@
 					<Name>ТипВыгрузкиПериодическихРегистров</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Тип выгрузки периодических регистров</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A0E85568-40CD-A502-2EA6-6AC781EF3FEB</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -278,8 +278,8 @@
 					<Name>КомпоновщикНастроекКомпоновкиДанных</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Компоновщик настроек компоновки данных</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>399FB6B4-FAF4-A104-4A6A-AE9A625CEE97__</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -312,8 +312,8 @@
 					<Name>ВыгружатьКод</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Выгружать код / номер в макет</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>4C52C6AB-FFE2-BF33-379A-A5C562AC36BD</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -346,8 +346,8 @@
 					<Name>ВыгружатьСсылку</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Выгружать ссылку</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>328C84AF-228E-DC24-49D5-502756090184</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -380,8 +380,8 @@
 					<Name>СвязьПоГуид</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Связь по гуид</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>0FA636A2-72E1-5223-3BF5-51FDEA933318</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -414,8 +414,8 @@
 					<Name>ТолькоСоздание</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Только создание</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C72E961F-9393-AF38-86D0-06C7EACEEA39</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -448,8 +448,8 @@
 					<Name>ОбменДанными</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Обмен данными</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>45861DD5-7503-71B3-35A7-7651282C429C</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -482,8 +482,8 @@
 					<Name>НаборРолей</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Набор ролей</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>6CEA3F00-82D0-1C2D-D481-1840AB716843</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -514,8 +514,8 @@
 					<Name>НаборПользователей</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Набор пользователей</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>438E5DEA-839F-1B29-9EEC-CD513F08614F</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -546,12 +546,8 @@
 					<Name>ВариантВстроенногоЯзыкаАнглийский</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>en</v8:lang>
-							<v8:content>Script Variant English</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Вариант встроенного языка английский</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>65A8FA3C-3C14-CAAB-BAEC-C2F4D30C5F2B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -584,8 +580,8 @@
 					<Name>УровеньВыгрузки</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Уровень выгрузки зависимых</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>077253B0-7126-33F5-55A0-0E1125987787</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -633,8 +629,8 @@
 					<Name>ТаблицаДанных</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Таблица данных</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>989A772B-5685-17F1-1820-05EDD0DB9270</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -674,8 +670,8 @@
 							<Name>Ссылка</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Ссылка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>78713429-A371-684E-EC66-68193F72D8D4</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -712,8 +708,8 @@
 							<Name>Метаданное</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Метаданное</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>A4FE1F6B-76A4-8323-3B11-10A9FDE69653</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -752,8 +748,8 @@
 							<Name>ИмяПеременной</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Имя переменной</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>E43202DD-CADD-E10F-F2E2-26A994A4C9AC</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -792,8 +788,8 @@
 							<Name>ВыгружатьКод</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Выгружать код/номер</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>80B7D10F-B830-394F-F8EE-E6FCEFA3C9FD</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -828,8 +824,8 @@
 							<Name>РежимПоиска</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Режим поиска</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>A18BB0EF-D06E-8C34-4736-68423F91DE3A</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -868,8 +864,8 @@
 							<Name>РежимСоздания</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Режим создания</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>D9585B6E-8B8C-EC1C-CBB5-547A96864263</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -920,8 +916,8 @@
 					<Name>ПользователиИБ</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Пользователи ИБ</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>D4E824C0-EBD0-C05E-E4D4-440F2B522942</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -961,8 +957,8 @@
 							<Name>Имя</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Имя</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>D7A30DA4-270E-6203-3BDC-CF38511325F5</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1001,8 +997,8 @@
 							<Name>ПолноеИмя</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Полное имя</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>ED8BDE2F-D571-534C-CD43-3014220480EB</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1041,8 +1037,8 @@
 							<Name>Роли</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Роли</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>3AAB171D-5C76-54D3-31C1-109A893ACFA3</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1081,8 +1077,8 @@
 							<Name>АутентификацияСтандартная</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Аутентификация стандартная</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>EBD0F1DE-DAC4-3F68-8FE5-5056C1E9EBFA</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1121,8 +1117,8 @@
 							<Name>АутентификацияОС</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Аутентификация ОС</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>6B92684B-0DBE-A4DB-B462-2BBFB69CC969</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1161,8 +1157,8 @@
 							<Name>ПользовательОС</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Пользователь ОС</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>9D5D493A-6A15-E3C0-0BBF-F40A6FB2876B</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1213,8 +1209,8 @@
 					<Name>ДополнительныеСвойства</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дополнительные свойства</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>6356FE80-1148-B118-81DE-EC9CC78381B6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -1254,8 +1250,8 @@
 							<Name>Имя</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Имя</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>D7A30DA4-270E-6203-3BDC-CF38511325F5</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1294,8 +1290,8 @@
 							<Name>Значение</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Значение</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>019AA054-05EB-DC13-3509-95197B4AE42B</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>

@@ -15,8 +15,8 @@
 			<Name>КнопкаНажималкаОбычныйИнтерфейс</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>КнопкаНажималкаОбычныйИнтерфейс</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>7CDCD5C4-6EDF-4243-3F66-6B0D66E5B981</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>2F31D71E-C1B6-0646-6A0C-CD1BEF204F1E</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C2C63375-BF70-669E-EF08-8045C6261891</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

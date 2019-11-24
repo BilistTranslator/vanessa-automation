@@ -15,8 +15,8 @@
 			<Name>ЗагрузкаФичИзКаталога</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ЗагрузкаФичИзКаталога</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1C8E799F-AF25-AC05-5C69-9B294C3C2E63</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C20F5717-0C06-5E65-5DE3-35A06C96850E</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E5C061E7-3459-60FF-F8E2-2A3DAB018203</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

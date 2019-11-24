@@ -5,12 +5,8 @@
 			<Name>Форма</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Форма</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>Biểu mẫu</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D3642CD9-0945-BE6D-D12F-F38168280C43</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

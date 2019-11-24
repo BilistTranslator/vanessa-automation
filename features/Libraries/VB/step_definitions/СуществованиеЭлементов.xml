@@ -15,8 +15,8 @@
 			<Name>СуществованиеЭлементов</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>СуществованиеЭлементов</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>DED6E4EE-7FC0-D3F4-43CA-A1083A0A6DA9</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>989C47C5-B74E-7D3B-B15E-E01EA659AB10</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>0AD57FA8-EDC8-5390-0C23-3E4E68DF6FB1</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

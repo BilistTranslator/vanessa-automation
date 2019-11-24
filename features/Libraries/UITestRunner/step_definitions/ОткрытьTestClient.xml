@@ -15,8 +15,8 @@
 			<Name>ОткрытьTestClient</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОткрытьTestClient</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>3CB1C6A5-CFE2-A386-69A8-8A716B607234</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>B0993177-1D2B-8066-6A36-6FBB3E683F15</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>F4691488-F72F-B2F9-99AA-ADEA9D8E195A</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

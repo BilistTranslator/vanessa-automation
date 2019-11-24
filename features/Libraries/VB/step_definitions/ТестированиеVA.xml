@@ -15,8 +15,8 @@
 			<Name>ТестированиеVA</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Тестирование VA</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>023FD8F9-C0F0-CA2C-CB4A-A32FF69B09C9</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>533F0F44-228E-65A3-340F-FF03E73D7613</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>9F1FBDA8-52AD-50B2-2B2F-F3CCC8165FEF</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

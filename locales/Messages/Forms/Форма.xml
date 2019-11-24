@@ -3,12 +3,7 @@
 	<Form uuid="e6cabb0f-ef35-4010-915b-2049fbfe6eb3">
 		<Properties>
 			<Name>Форма</Name>
-			<Synonym>
-				<v8:item>
-					<v8:lang>en</v8:lang>
-					<v8:content>Форма</v8:content>
-				</v8:item>
-			</Synonym>
+			<Synonym/>
 			<Comment/>
 			<FormType>Managed</FormType>
 			<IncludeHelpInContents>false</IncludeHelpInContents>

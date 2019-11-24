@@ -15,8 +15,8 @@
 			<Name>Load1000ItemsfromMxl</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Load1000ItemsfromMxl</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>35D0BED0-018A-5D63-3E4C-C4E9C6E92E13</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7F713B07-3C2A-46CE-EF71-11D541DC69B9</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>35A13E2D-51F2-4AC3-3F7C-C16B922134D9</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

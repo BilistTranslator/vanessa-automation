@@ -15,8 +15,8 @@
 			<Name>ФичаТолькоСШагамиИзБиблиотек</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ФичаТолькоСШагамиИзБиблиотек</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>22BB3FD8-80D3-B49E-E9B9-91926D4F146C</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>88A8D06B-3670-C288-8722-283B16FD584D</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7080DDA1-D7D0-1036-6542-2BA8FBCF6DCE</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

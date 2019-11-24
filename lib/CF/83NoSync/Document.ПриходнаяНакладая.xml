@@ -27,8 +27,8 @@
 			<Name>ПриходнаяНакладая</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Приходная накладая</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>51C3AAA5-D7BC-347C-C00C-CF4BC2ED8388</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -207,8 +207,8 @@
 					<Name>Склад</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Склад</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>15FFD50D-1654-2B0E-EED8-8787BCE2B636</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -255,8 +255,8 @@
 					<Name>ТЧТовары</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ТЧТовары</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>463C0AAF-BC01-51C0-0049-991800A3EC35</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -296,8 +296,8 @@
 							<Name>Товар</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Товар</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>653CD744-116B-4B7C-C810-09B11779C536</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -332,8 +332,8 @@
 							<Name>Количество</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Количество</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>A03D8836-3756-1BE6-65D9-951568FC0645</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>

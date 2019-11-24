@@ -5,14 +5,14 @@
 		<Pages name="ГруппаСтраницы" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа страницы</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>71B82081-C838-5C9F-FB59-9DBE60FA09C0</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа страницы</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E746286E-64FA-E05B-B912-2E829030B140</v8:content>
 				</v8:item>
 			</ToolTip>
 			<PagesRepresentation>None</PagesRepresentation>
@@ -21,14 +21,14 @@
 				<Page name="Страница1" id="3">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Страница1</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A03D71E4-74CA-F941-11A3-315FD0602F95</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Страница1</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>90B94EB6-7735-1EC3-38A1-17545943502E</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="Страница1РасширеннаяПодсказка" id="4"/>
@@ -49,14 +49,14 @@
 				<Page name="Страница2" id="5">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Страница2</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>79FFC695-3C83-3D3D-DC4B-B1DA02D81FBD</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Страница2</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>70962EEA-DCF6-FF12-287A-A91403240A96</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="Страница2РасширеннаяПодсказка" id="6"/>
@@ -87,8 +87,8 @@
 		<Attribute name="Поле1Страница1" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Поле1 страница1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>39754F91-CAEF-8943-3531-17AC0149AB5B</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -102,8 +102,8 @@
 		<Attribute name="Поле1Страница2" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Поле1 страница2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>40DD46D3-4B6A-6E39-928D-D8AD6D910EE1</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -119,14 +119,14 @@
 		<Command name="ПерейтиНаСтраницу2" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Перейти на страницу 2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>2147077A-8E4C-E6CD-D62B-B50BFE02E4A6</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Перейти на страницу2</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>00F9591D-E3E4-424E-E1BC-CE25667C30C7</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ПерейтиНаСтраницу2</Action>
@@ -134,14 +134,14 @@
 		<Command name="ПерейтиНаСтраницу1" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Перейти на страницу 1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>9F369E1B-73F5-55B0-02A3-35E5EA693F60</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Перейти на страницу1</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E066406A-704A-544D-D062-23450DC5BC5D</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ПерейтиНаСтраницу1</Action>

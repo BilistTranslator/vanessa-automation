@@ -15,8 +15,8 @@
 			<Name>FeatureReader</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Feature reader</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>54A94F13-8431-15D1-1284-40BF78EB451E</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>DebugLog</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Debug log</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>B6DD0E8A-6D51-6570-0E17-7030261E5DD6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -63,8 +63,8 @@
 					<Name>КаталогИнструментов</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Каталог инструментов</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C9CE4A3A-7F7A-8C06-6D06-6D93E3EB628F</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -101,8 +101,8 @@
 					<Name>ШагСтрокДляМодуля</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Шаг строк для модуля</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>AF6BF6D1-24D0-9641-1171-15BC80D86BC4</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -140,8 +140,8 @@
 					<Name>ГенерироватьУФ</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Генерировать УФ</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>45C2E83E-0EB1-63A8-8AB0-075ECEA7EC2B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

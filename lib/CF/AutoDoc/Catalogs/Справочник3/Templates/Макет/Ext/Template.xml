@@ -118,8 +118,8 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Наименование</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>71C9197F-DBC8-268E-E7C8-845E6516CDBB</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -129,8 +129,8 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Предопределенный</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>D25DD9B7-349D-F0D4-48BE-ECF436E037FA</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -140,8 +140,8 @@
 					<f>6</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ВерсияДанных</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7229DAA8-7DB3-0AD7-7020-0D6530F01617</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -151,8 +151,8 @@
 					<f>5</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ИмяПредопределенныхДанных</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>D3BF5B43-212F-091B-B92A-AEE461539C51</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -162,8 +162,8 @@
 					<f>7</f>
 					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ПараметрЧисло</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>224D31E2-A793-C17A-AFBF-F88EBA406191</v8:content>
 						</v8:item>
 					</tl>
 				</c>

@@ -15,8 +15,8 @@
 			<Name>ОбработкаОшибкиВПроцедуреПередОкончаниемСценария</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОбработкаОшибкиВПроцедуреПередОкончаниемСценария</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E4004984-3118-AC6D-DE9B-B3CEDFBD59BD____________</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>260BF738-4772-A4BA-A1A4-48546602DD6C</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>81D0559E-D44D-AFAF-F3C2-2AD9FD6040C6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

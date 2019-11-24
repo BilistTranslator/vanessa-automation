@@ -15,8 +15,8 @@
 			<Name>ПроверкаСтруктурыСценария</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПроверкаСтруктурыСценария</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>2CDA9F41-ECA2-F33F-F7B3-3AED42BFB789</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>9BD70E2F-A27E-2690-0EFA-A781BE06892A</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>63363C2B-F798-899A-A4F5-51D6C073B14D</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

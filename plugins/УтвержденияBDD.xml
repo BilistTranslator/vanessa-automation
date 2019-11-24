@@ -15,8 +15,8 @@
 			<Name>УтвержденияBDD</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Утверждения BDD</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>817480A6-B95D-87E4-41E5-5DF6F5081F6F</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>ДопСообщениеОшибки</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Доп сообщение ошибки</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>AC6D1628-FBC4-30ED-DA0F-FD5050CB3CBD</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -67,8 +67,8 @@
 					<Name>ИмяМетода</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Имя метода</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>541DE1D4-4187-89B4-47CB-B3BA2C7CDD25</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -105,8 +105,8 @@
 					<Name>ПараметрыМетода</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Параметры метода</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>C78A92BA-CD8E-0D42-2D71-18C2DB4F54B8</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -137,8 +137,8 @@
 					<Name>ПроверяемоеЗначение</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Проверяемое значение</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A2638AD3-C346-39CF-F9C5-5D4E0F3B7CF2</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -169,8 +169,8 @@
 					<Name>ФлагОтрицания</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Флаг отрицания</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>9FD0FA70-EC92-11A1-19EC-C4201AC120BE</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

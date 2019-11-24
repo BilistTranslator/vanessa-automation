@@ -15,8 +15,8 @@
 			<Name>ОстановкаRunnerПоТаймеру</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ОстановкаRunnerПоТаймеру</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>5B35A92A-C3DD-0A70-0B74-432E151B204B</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>8FF36F96-F8DB-7282-297F-F649A2E893F6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>45B15433-4711-7115-5544-4B5849CA595C</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

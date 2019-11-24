@@ -5,12 +5,8 @@
 			<Name>ДеталиОшибки</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Детали ошибки</v8:content>
-				</v8:item>
-				<v8:item>
-					<v8:lang>vi</v8:lang>
-					<v8:content>Chi tiết lỗi</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A4749AA0-2758-E6BE-E086-650B6B30E14F</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>

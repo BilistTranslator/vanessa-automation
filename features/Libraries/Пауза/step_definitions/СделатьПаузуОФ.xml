@@ -15,8 +15,8 @@
 			<Name>СделатьПаузуОФ</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>СделатьПаузуОФ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>902FAC4A-8BF5-F465-5ABF-F9324A559AEC</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>0E1B71DC-1143-CE49-90F8-896C54334A7B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E66DBC32-E43D-2F56-6A39-99802F210BD6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

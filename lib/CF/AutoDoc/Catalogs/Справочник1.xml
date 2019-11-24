@@ -155,8 +155,8 @@
 					<Name>РеквизитСтрока</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит строка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>5DCDDEAB-91BD-3D24-46DA-ACAC03579D34</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -199,8 +199,8 @@
 					<Name>РеквизитДата</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит дата</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>89556CD8-34B2-30FE-E60E-EE3BB07E5CDC</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -242,8 +242,8 @@
 					<Name>РеквизитБулево</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит булево</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>B7FC3159-AD6B-6B7F-F423-33FCAB7B5E7A</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -282,8 +282,8 @@
 					<Name>РеквизитЧисло</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит число</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>3BB5A4C4-877D-40DC-C534-4D1F71D00357</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -327,8 +327,8 @@
 					<Name>РеквизитПереключатель</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит переключатель</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>FF582131-F7D4-A027-75FD-DA4399385A05</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -407,8 +407,8 @@
 					<Name>РекСтрока1</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Рек строка1</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>02421CE1-DF2F-5DE2-279D-D3540BC6AF46</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -451,8 +451,8 @@
 					<Name>РекСтрока2</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Рек строка2</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>AB8CF1F6-ED98-006E-E849-91325FFF2F5B</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -495,8 +495,8 @@
 					<Name>СоставнойРеквизит</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Составной реквизит</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>EE24B9D7-BF46-37F8-8122-28EB9AD85DC7</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -536,8 +536,8 @@
 					<Name>РеквизитМеню</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит меню</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A3E629EB-01D5-26B7-7A0D-D91624793FA6</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -580,8 +580,8 @@
 					<Name>РеквизитСписок</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит список</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>CFD0E20C-D5F9-A4C9-9A90-0C335D3AE204</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -624,8 +624,8 @@
 					<Name>РеквизитБыстрыйВыбор</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит быстрый выбор</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>90A46A5F-C835-A8E6-6997-7353285AE974</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -664,8 +664,8 @@
 					<Name>Реквизит1Копия</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит1 копия</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>A9DF9381-C970-6F4E-E09D-D2F18E770936</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -704,8 +704,8 @@
 					<Name>РеквизитТекстовыйДокумент</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Реквизит текстовый документ</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>764F727C-6C6C-DD29-9F6B-B7F3D5A11C2D</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -768,8 +768,8 @@
 							<Name>РеквизитЧисло</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит число</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>61389204-C7E7-5D7C-CFAD-D43C762849F0</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -810,8 +810,8 @@
 							<Name>РеквизитСтрока</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит строка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>7F84DC74-F8DF-95A3-3F7B-B3C2535C2E35</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -851,8 +851,8 @@
 							<Name>РеквизитДата</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит дата</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>66FD6B3B-F077-1539-9799-9FF57BA10534</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -891,8 +891,8 @@
 							<Name>РеквизитСправочник</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит справочник</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>067F6ED9-E147-AD20-0BCD-DCB8320530FF</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -928,8 +928,8 @@
 							<Name>РеквизитБулево</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит булево</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>4F79AF09-94FA-191A-AD64-46EAFEF76064</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -965,8 +965,8 @@
 							<Name>РеквизитСправочникВыборИзФормыСписка</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит справочник выбор из формы списка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>29DAEBB8-695B-3FB7-7875-5210C894BC9A_____</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1002,8 +1002,8 @@
 							<Name>РеквизитБыстрыйВыборТЧ</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит быстрый выбор ТЧ</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>553EE8EC-2382-BB6F-F01D-D5070059905C</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1039,8 +1039,8 @@
 							<Name>МногострочнаяСтрока</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Многострочная строка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>613F5EAF-41FB-CC89-9B0E-E9C3BA809E71</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1080,8 +1080,8 @@
 							<Name>РеквизтПереносВЗаголовке</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизт перенос в заголовке</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>536B602F-644A-BDAB-B1D8-82279395C1C7</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1171,8 +1171,8 @@
 							<Name>РеквизитЧисло</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит число</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>61389204-C7E7-5D7C-CFAD-D43C762849F0</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1213,8 +1213,8 @@
 							<Name>РеквизитСтрока</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит строка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>7F84DC74-F8DF-95A3-3F7B-B3C2535C2E35</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1254,8 +1254,8 @@
 							<Name>РеквизитДата</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит дата</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>66FD6B3B-F077-1539-9799-9FF57BA10534</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1294,8 +1294,8 @@
 							<Name>РеквизитСправочник</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит справочник</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>067F6ED9-E147-AD20-0BCD-DCB8320530FF</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1331,8 +1331,8 @@
 							<Name>РеквизитБулево</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит булево</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>4F79AF09-94FA-191A-AD64-46EAFEF76064</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>
@@ -1368,8 +1368,8 @@
 							<Name>РеквизитСправочникВыборИзФормыСписка</Name>
 							<Synonym>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Реквизит справочник выбор из формы списка</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>29DAEBB8-695B-3FB7-7875-5210C894BC9A_____</v8:content>
 								</v8:item>
 							</Synonym>
 							<Comment/>

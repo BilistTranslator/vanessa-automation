@@ -2,8 +2,8 @@
 <Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.4">
 	<Title>
 		<v8:item>
-			<v8:lang>ru</v8:lang>
-			<v8:content>Дымовые тесты</v8:content>
+			<v8:lang>hash</v8:lang>
+			<v8:content>5ED11A92-4A2F-CF90-0BD8-83C2A8C8D9AD</v8:content>
 		</v8:item>
 	</Title>
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
@@ -17,8 +17,8 @@
 			<Popup name="ФормаГруппаТесты" id="66">
 				<Title>
 					<v8:item>
-						<v8:lang>ru</v8:lang>
-						<v8:content>Установить тесты...</v8:content>
+						<v8:lang>hash</v8:lang>
+						<v8:content>25C04B5B-0806-11A7-7F2A-A1525FEEE737</v8:content>
 					</v8:item>
 				</Title>
 				<ExtendedTooltip name="ФормаГруппаТестыРасширеннаяПодсказка" id="67"/>
@@ -46,8 +46,8 @@
 					<ButtonGroup name="ФормаГруппаПоУмолчанию" id="90">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Форма группа по умолчанию</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>89602585-4517-DB9F-F680-08AD1FA69C9E</v8:content>
 							</v8:item>
 						</Title>
 						<ExtendedTooltip name="ФормаГруппаПоУмолчаниюРасширеннаяПодсказка" id="91"/>
@@ -64,8 +64,8 @@
 			<ButtonGroup name="ФормаГруппаНастройки" id="110">
 				<Title>
 					<v8:item>
-						<v8:lang>ru</v8:lang>
-						<v8:content>Форма группа настройки</v8:content>
+						<v8:lang>hash</v8:lang>
+						<v8:content>A5F59F8A-475E-16D1-1CEE-E8C30C609DFC</v8:content>
 					</v8:item>
 				</Title>
 				<ExtendedTooltip name="ФормаГруппаНастройкиРасширеннаяПодсказка" id="111"/>
@@ -93,8 +93,8 @@
 		<Pages name="ГруппаСтраницы" id="99">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Страницы</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A71C2905-38EB-28D6-6F39-910129C724FB</v8:content>
 				</v8:item>
 			</Title>
 			<ExtendedTooltip name="ГруппаСтраницыРасширеннаяПодсказка" id="100"/>
@@ -102,8 +102,8 @@
 				<Page name="СтраницаНастройки" id="101">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Настройки</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>5C9FAFBB-A10F-158B-B360-02F9C60C9FF2</v8:content>
 						</v8:item>
 					</Title>
 					<ExtendedTooltip name="СтраницаНастройкиРасширеннаяПодсказка" id="102"/>
@@ -117,8 +117,8 @@
 							<DataPath>ДеревоОбъектовМетаданных</DataPath>
 							<Title>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Дерево объектов метаданных</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>D643E365-6B34-5C53-37C8-8CF5A4189601</v8:content>
 								</v8:item>
 							</Title>
 							<ContextMenu name="ДеревоОбъектовМетаданныхКонтекстноеМеню" id="3">
@@ -147,8 +147,8 @@
 									<ButtonGroup name="ДеревоОбъектовКонтекстноеМенюГруппаПоУмолчанию" id="78">
 										<Title>
 											<v8:item>
-												<v8:lang>ru</v8:lang>
-												<v8:content>Дерево объектов контекстное меню группа по умолчанию</v8:content>
+												<v8:lang>hash</v8:lang>
+												<v8:content>2EC45A2A-D44A-A7C8-8884-49D3F6381BB8________________</v8:content>
 											</v8:item>
 										</Title>
 										<ExtendedTooltip name="ДеревоОбъектовКонтекстноеМенюГруппаПоУмолчаниюРасширеннаяПодсказка" id="79"/>
@@ -194,8 +194,8 @@
 								<ColumnGroup name="ДеревоОбъектовГруппа1" id="32">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Дерево объектов группа 1</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>F2AB7A5F-9152-D825-51B9-90C045178385</v8:content>
 										</v8:item>
 									</Title>
 									<Group>InCell</Group>
@@ -232,8 +232,8 @@
 								<ColumnGroup name="ДеревоОбъектовМетаданныхСценарии" id="94">
 									<Title>
 										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Сценарии</v8:content>
+											<v8:lang>hash</v8:lang>
+											<v8:content>1CED16F1-5398-F8EE-E4D8-85F8E2B286E0</v8:content>
 										</v8:item>
 									</Title>
 									<Group>Horizontal</Group>
@@ -244,8 +244,8 @@
 											<DataPath>ДеревоОбъектовМетаданных.СценарийОткрытьФорму</DataPath>
 											<ToolTip>
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Открытие формы объекта</v8:content>
+													<v8:lang>hash</v8:lang>
+													<v8:content>7F16B959-6C6F-82DC-C2F1-11D1C4D47CF4</v8:content>
 												</v8:item>
 											</ToolTip>
 											<ThreeState>true</ThreeState>
@@ -259,8 +259,8 @@
 											<DataPath>ДеревоОбъектовМетаданных.СценарийЗаписьНового</DataPath>
 											<ToolTip>
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Запись нового объекта</v8:content>
+													<v8:lang>hash</v8:lang>
+													<v8:content>E7162079-AC46-DDC3-330E-EFA24B4E4960</v8:content>
 												</v8:item>
 											</ToolTip>
 											<ThreeState>true</ThreeState>
@@ -283,8 +283,8 @@
 											<DataPath>ДеревоОбъектовМетаданных.СценарийВводНаОсновании</DataPath>
 											<ToolTip>
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Ввод на основании</v8:content>
+													<v8:lang>hash</v8:lang>
+													<v8:content>78E8FBE3-BFA6-660B-B86D-DDFC3E3E32B5</v8:content>
 												</v8:item>
 											</ToolTip>
 											<ThreeState>true</ThreeState>
@@ -303,8 +303,8 @@
 				<Page name="СтраницаСценарийПоведения" id="103">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Сценарий поведения</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>9B5B15BF-7992-4CCB-B9C9-9C6A87876375</v8:content>
 						</v8:item>
 					</Title>
 					<ExtendedTooltip name="СтраницаСценарийПоведенияРасширеннаяПодсказка" id="104"/>
@@ -335,8 +335,8 @@
 		<Attribute name="ДеревоОбъектовМетаданных" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дерево объектов метаданных</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>DE63C887-1963-80CC-CA08-809BABC043BF</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -346,8 +346,8 @@
 				<Column name="Представление" id="4">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Представление</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>23452A62-2A17-5131-1771-109726F08A9F</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -370,8 +370,8 @@
 				<Column name="Картинка" id="7">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Картинка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>57C4F209-203A-E311-1BAB-B86DA34B5203</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -395,8 +395,8 @@
 				<Column name="Пометка" id="12">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Пометка</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>54058BD1-0D10-80E7-792D-D92B974DDDEB</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -411,8 +411,8 @@
 				<Column name="СценарийОткрытьФорму" id="14">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Открыть форму</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>49F6838F-64CC-4EE1-1609-919ABB05D0DA</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -427,8 +427,8 @@
 				<Column name="СценарийВводНаОсновании" id="15">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Ввод на основании</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>B538D4FE-0012-0F52-28D6-65A11AD77CDD</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -443,8 +443,8 @@
 				<Column name="СценарийЗаписьНового" id="16">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Запись нового</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>44DD8BD5-4C4F-C242-2584-434B3B247E74</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -459,8 +459,8 @@
 				<Column name="СценарийЗаписьСуществующего" id="17">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Запись существующего</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>761B5C04-91A8-969B-BAFE-EBB25C16F40A</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
@@ -492,8 +492,8 @@
 		<Attribute name="СгенерированныйСценарий" id="18">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сгенерированный сценарий</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>6EAD151B-85C7-6626-6002-28D6C5176495</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -507,8 +507,8 @@
 		<Attribute name="СоответствиеТекстовСообщений" id="19">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Соответствие текстов сообщений</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>6117CF45-7A49-B4AC-C60B-B0D567B0680B</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -518,8 +518,8 @@
 		<Command name="СформироватьСценарии" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сформировать сценарии</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>8CDD5504-0419-2D5F-FACE-ED290D2B7039</v8:content>
 				</v8:item>
 			</Title>
 			<Action>СформироватьСценарии</Action>
@@ -527,8 +527,8 @@
 		<Command name="УстановитьОткрытиеФормы" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Открытие формы</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>C3D2C1BF-83D1-805B-BA62-2C04A2FD6C44</v8:content>
 				</v8:item>
 			</Title>
 			<Action>УстановитьОткрытиеФормы</Action>
@@ -536,8 +536,8 @@
 		<Command name="УстановитьЗаписьНового" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Запись нового</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>49B2CBBA-A403-4497-7659-9C14E81C94D7</v8:content>
 				</v8:item>
 			</Title>
 			<Action>УстановитьЗаписьНового</Action>
@@ -545,8 +545,8 @@
 		<Command name="УстановитьЗаписьСуществующего" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Запись существующего</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>0C211917-ECDC-935C-C338-8DF34AAA38FE</v8:content>
 				</v8:item>
 			</Title>
 			<Action>УстановитьЗаписьСуществующего</Action>
@@ -554,8 +554,8 @@
 		<Command name="УстановитьВводНаОсновании" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Ввод на основании</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F81C9911-4D01-F23D-D9ED-D40981E101A1</v8:content>
 				</v8:item>
 			</Title>
 			<Action>УстановитьВводНаОсновании</Action>
@@ -563,8 +563,8 @@
 		<Command name="УстановитьПоУмолчанию" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>По умолчанию</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A40DF209-101C-A7A2-2910-04002DCF48C3</v8:content>
 				</v8:item>
 			</Title>
 			<Picture>
@@ -576,8 +576,8 @@
 		<Command name="ПодготовитьСценарииКВыполнению" id="7">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Подготовить сценарии к выполнению</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>741154E1-3D0B-3659-9FDD-D8B7158A4619</v8:content>
 				</v8:item>
 			</Title>
 			<Action>ПодготовитьСценарииКВыполнению</Action>
@@ -585,8 +585,8 @@
 		<Command name="ВыгрузитьНастройки" id="8">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Выгрузить настройки...</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>98756560-929D-C01D-D73B-B432265BE6CF</v8:content>
 				</v8:item>
 			</Title>
 			<Picture>
@@ -598,8 +598,8 @@
 		<Command name="ЗагрузитьНастройки" id="9">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить настройки...</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>67B4E459-EF50-BD76-6AD6-6352D803A874</v8:content>
 				</v8:item>
 			</Title>
 			<Action>ЗагрузитьНастройки</Action>

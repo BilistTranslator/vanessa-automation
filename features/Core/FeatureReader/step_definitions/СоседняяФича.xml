@@ -15,8 +15,8 @@
 			<Name>СоседняяФича</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>СоседняяФича</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>10F92CA6-D42B-EC09-9C63-3805661AF410</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>86A5D135-18A3-04F7-7CBE-EAE00C9AB39C</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>F63C3100-413B-8A6C-C22D-D0045F3A8F52</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

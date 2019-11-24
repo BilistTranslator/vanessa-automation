@@ -18,8 +18,8 @@
 		<Attribute name="Контекст" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекст</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>6DDB3341-20FB-FC57-7F3C-C9EA08B99073</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -27,8 +27,8 @@
 		<Attribute name="КонтекстСохраняемый" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Контекст</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>65EDA60B-D3E2-D1CB-BB72-2112A189AC35</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -36,8 +36,8 @@
 		<Attribute name="КолСекундТаймер" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Кол секунд таймер</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>13E2288F-0AAF-3ADE-E607-7FBB760B10E3</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -51,8 +51,8 @@
 		<Attribute name="МаскКолСекундТаймер" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Маск кол секунд таймер</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A0911097-1A60-34DA-A795-598192DB0E2A</v8:content>
 				</v8:item>
 			</Title>
 			<Type>

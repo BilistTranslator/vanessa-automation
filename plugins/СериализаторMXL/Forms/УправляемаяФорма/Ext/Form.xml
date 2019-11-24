@@ -31,8 +31,8 @@
 				</Picture>
 				<Title>
 					<v8:item>
-						<v8:lang>ru</v8:lang>
-						<v8:content>Дополнительные свойства</v8:content>
+						<v8:lang>hash</v8:lang>
+						<v8:content>E1E7606E-DE06-2DB2-27B6-681F673D42CE</v8:content>
 					</v8:item>
 				</Title>
 				<ExtendedTooltip name="ФормаДополнительныеСвойстваРасширеннаяПодсказка" id="440"/>
@@ -47,14 +47,14 @@
 		<UsualGroup name="ГруппаНастройки" id="318">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа настройки</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>CD78DCF9-3DC9-9C5B-B00E-EB5865E5FF27</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Группа настройки</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>09DBCB46-EAAE-1F59-9ED6-6F5B3A079BE4</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Group>Horizontal</Group>
@@ -65,14 +65,14 @@
 				<Pages name="ГруппаСтраницы" id="55">
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа страницы</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>AC7FB5EF-B2E2-8BFB-B6D8-852B3E89CF2C</v8:content>
 						</v8:item>
 					</Title>
 					<ToolTip>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Группа страницы</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>7E1FDFA5-03CA-8882-25C0-0012C206C97A</v8:content>
 						</v8:item>
 					</ToolTip>
 					<ExtendedTooltip name="ГруппаСтраницыРасширеннаяПодсказка" id="442"/>
@@ -80,18 +80,14 @@
 						<Page name="ГруппаМетаданные" id="57">
 							<Title>
 								<v8:item>
-									<v8:lang>en</v8:lang>
-									<v8:content>Metadata</v8:content>
-								</v8:item>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Метаданные</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>8CF43958-3F78-34F0-01C7-7593935BB491</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа метаданные</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>1CDBD1FB-E32C-7676-6B6B-B69C24BFAED8</v8:content>
 								</v8:item>
 							</ToolTip>
 							<HorizontalStretch>true</HorizontalStretch>
@@ -138,12 +134,8 @@
 											<DataPath>Объект.ВариантВстроенногоЯзыкаАнглийский</DataPath>
 											<Title>
 												<v8:item>
-													<v8:lang>en</v8:lang>
-													<v8:content>Script variant English</v8:content>
-												</v8:item>
-												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Язык программирования английский</v8:content>
+													<v8:lang>hash</v8:lang>
+													<v8:content>D8CCDADB-D315-FF8F-FA95-571FABF168CF</v8:content>
 												</v8:item>
 											</Title>
 											<CheckBoxType>Auto</CheckBoxType>
@@ -154,10 +146,10 @@
 											<DataPath>Объект.УровеньВыгрузки</DataPath>
 											<ToolTip>
 												<v8:item>
-													<v8:lang>ru</v8:lang>
-													<v8:content>Если значение = 0, то ограничений нет и выгружаются элементы с признаком "При необходимости"
-`Значение = 1` выгружаем вообще без подчиненных, только явно заданные
-Если значение &gt; 1, то выгружаем подчиненные элементы этого или меньшего уровня зависимости</v8:content>
+													<v8:lang>hash</v8:lang>
+													<v8:content>051C063E-0C6B-306C-CAE2-2A600B40551A________________________________________________________
+_____________________________________________________________________
+__________________________________________________________________________________________</v8:content>
 												</v8:item>
 											</ToolTip>
 											<SpinButton>true</SpinButton>
@@ -202,8 +194,8 @@
 														<CommandName>Form.Command.ПересчитатьВыгружаемыеПоСсылке</CommandName>
 														<Title>
 															<v8:item>
-																<v8:lang>ru</v8:lang>
-																<v8:content>Определить данные, выгружаемые по ссылке</v8:content>
+																<v8:lang>hash</v8:lang>
+																<v8:content>C19C69FD-71FA-97BF-F146-63D8BC791D37____</v8:content>
 															</v8:item>
 														</Title>
 														<ExtendedTooltip name="ДеревоМетаданныхПересчитатьВыгружаемыеПоСсылкеРасширеннаяПодсказка" id="453"/>
@@ -242,14 +234,14 @@
 												<ColumnGroup name="ГруппаВыбораОбъектов" id="61">
 													<Title>
 														<v8:item>
-															<v8:lang>ru</v8:lang>
-															<v8:content>Группа выбора объектов</v8:content>
+															<v8:lang>hash</v8:lang>
+															<v8:content>FD4C3375-7BE3-21B9-990A-ACB8B36B0780</v8:content>
 														</v8:item>
 													</Title>
 													<ToolTip>
 														<v8:item>
-															<v8:lang>ru</v8:lang>
-															<v8:content>Группа выбора объектов</v8:content>
+															<v8:lang>hash</v8:lang>
+															<v8:content>963412C2-5DD2-561C-C7BB-BDD30024CCFF</v8:content>
 														</v8:item>
 													</ToolTip>
 													<Group>InCell</Group>
@@ -308,8 +300,8 @@
 														<CommandName>Form.Command.ПоказатьРезультатОтбора</CommandName>
 														<Title>
 															<v8:item>
-																<v8:lang>ru</v8:lang>
-																<v8:content>Показать выбранные</v8:content>
+																<v8:lang>hash</v8:lang>
+																<v8:content>097D20DE-DE3B-B100-0B8B-B7BF8532330A</v8:content>
 															</v8:item>
 														</Title>
 														<ExtendedTooltip name="КомпоновщикОтборПоказатьРезультатОтбораРасширеннаяПодсказка" id="468"/>
@@ -353,18 +345,14 @@
 						<Page name="ГруппаТаблицаДанных" id="56">
 							<Title>
 								<v8:item>
-									<v8:lang>en</v8:lang>
-									<v8:content>Table of data</v8:content>
-								</v8:item>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Таблица данных</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>2AE0FC17-9474-1852-2C42-2B910501954B</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа таблица данных</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>C80AC040-88B9-C5CF-FE56-67ACB60CBB23</v8:content>
 								</v8:item>
 							</ToolTip>
 							<ExtendedTooltip name="ГруппаТаблицаДанныхРасширеннаяПодсказка" id="479"/>
@@ -467,18 +455,14 @@
 						<Page name="ГруппаПользователиИБ" id="143">
 							<Title>
 								<v8:item>
-									<v8:lang>en</v8:lang>
-									<v8:content>Users of database</v8:content>
-								</v8:item>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Пользователи ИБ</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>9353931D-4974-E9AC-CA8A-A69DD0A78A6D</v8:content>
 								</v8:item>
 							</Title>
 							<ToolTip>
 								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Группа пользователи ИБ</v8:content>
+									<v8:lang>hash</v8:lang>
+									<v8:content>AD8B6047-9C9C-7ACF-FF5E-EEDC0DB68CB8</v8:content>
 								</v8:item>
 							</ToolTip>
 							<ExtendedTooltip name="ГруппаПользователиИБРасширеннаяПодсказка" id="498"/>
@@ -578,8 +562,8 @@
 					<DataPath>Объект.ДополнительныеСвойства</DataPath>
 					<Title>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Дополнительные свойства</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>20737A38-542B-B6F8-81BB-B8DDFBCE31CC</v8:content>
 						</v8:item>
 					</Title>
 					<SearchStringLocation>None</SearchStringLocation>
@@ -646,8 +630,8 @@
 			<DataPath>Макет</DataPath>
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Макет данных</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>E0F2B330-78DD-1DD1-1053-3EF100F24E95</v8:content>
 				</v8:item>
 			</Title>
 			<TitleLocation>None</TitleLocation>
@@ -674,8 +658,8 @@
 					<Column name="ПолноеИмяМетаданных" id="1">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Данные для выгрузки</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>152C7FFC-6E26-F681-1E49-9BA20FD58F27</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -689,8 +673,8 @@
 					<Column name="Выгружать" id="2">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Выгружать</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>1B48AB4B-24A3-4B5C-C0B6-6C985824B059</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -705,8 +689,8 @@
 					<Column name="ВыгружатьПриНеобходимости" id="3">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Выгружать при необходимости</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>884522D1-ABFF-E756-62B3-31E631703C50</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -721,8 +705,8 @@
 					<Column name="ИндексКартинки" id="4">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Индекс картинки</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>4DE81B18-9C8E-9A9F-FF6E-EBCBDBEA30DA</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -737,8 +721,8 @@
 					<Column name="Развернут" id="5">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Развернут</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>6132F3F2-07A8-D72C-C091-119C74C52956</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -748,8 +732,8 @@
 					<Column name="НастройкиКомпоновщика" id="6">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Настройки компоновщика</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>E4601778-140A-1209-9C11-18C81476E2D7</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -759,8 +743,8 @@
 					<Column name="ИспользоватьОтбор" id="7">
 						<Title>
 							<v8:item>
-								<v8:lang>ru</v8:lang>
-								<v8:content>Использовать отбор</v8:content>
+								<v8:lang>hash</v8:lang>
+								<v8:content>77DB0062-0E53-AB20-0214-4C4A7E144806</v8:content>
 							</v8:item>
 						</Title>
 						<Type>
@@ -773,8 +757,8 @@
 		<Attribute name="Макет" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Макет</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>7AF6F071-76AF-C2E6-65CB-B9117DBC48D9</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -784,8 +768,8 @@
 		<Attribute name="ДеревоМетаданныхПредыдущаяСтрока" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дерево метаданных предыдущая строка</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B3C1A49B-4093-EE4A-A9FD-D7055AEED35E</v8:content>
 				</v8:item>
 			</Title>
 			<Type/>
@@ -817,14 +801,14 @@
 		<Command name="СоздатьМакетДанных" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Создать макет данных</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B47A3434-ABAB-6F79-9325-5B3C38BC8C72</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Создать макет данных</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>F918DF88-2042-3E6F-F339-9BD49371A8AD</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Picture>
@@ -838,14 +822,14 @@
 		<Command name="СохранитьМакетДанныхВФайл" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сохранить макет данных в файл</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>66B07D2F-4423-C62C-C249-971B5A89D92A</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Сохранить макет данных в файл</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>784840EF-5B79-2EA8-83D8-84A9E1340F82</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Picture>
@@ -858,14 +842,14 @@
 		<Command name="ПротестироватьЗагрузкуМакета" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Протестировать загрузку макета</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>3CE4C2A1-ACAC-31D7-727A-AAA5230CB3F9</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Протестировать загрузку макета</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B579B9BA-18C9-282F-F5E3-3FC559F1A4AC</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Picture>
@@ -878,14 +862,14 @@
 		<Command name="ОчиститьТаблицуДанных" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Очистить</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>57A2A31E-328B-6909-9D81-199894A51516</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Очистить таблицу данных</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>EAC17F56-A6CE-A147-79BE-EAAD1F5C0F34</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Picture>
@@ -898,14 +882,14 @@
 		<Command name="ПересчитатьВыгружаемыеПоСсылке" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Пересчитать выгружаемые по ссылке</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>304241A8-C6BE-203A-AD90-0D0B295C806D</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Пересчитать выгружаемые по ссылке</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>84B90439-FD1E-4D0D-DDCB-B6F5465CEEF1</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Picture>
@@ -918,14 +902,14 @@
 		<Command name="ПоказатьРезультатОтбора" id="6">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Показать результат отбора</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>84E7171F-E2F4-FE0C-CBB6-647C5C7206A4</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Показать результат отбора</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>04186CE5-8B78-3657-7918-8CDCAE4019F5</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ПоказатьРезультатОтбора</Action>
@@ -933,14 +917,14 @@
 		<Command name="ДополнительныеСвойства" id="7">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные свойства</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A75FA9EB-C7F3-0AEA-AD61-10E95C94039C</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дополнительные свойства</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1C26CE51-94A9-AAD7-7447-71B88462B9F9</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ДополнительныеСвойства</Action>

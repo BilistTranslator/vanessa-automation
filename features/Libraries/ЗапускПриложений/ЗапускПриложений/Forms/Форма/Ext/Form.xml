@@ -11,8 +11,8 @@
 		<Attribute name="PID" id="2">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>PID</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>8FB0D464-DBFA-474F-FA0E-E5ACB4135E2B</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -26,8 +26,8 @@
 		<Attribute name="Секунд" id="3">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Секунд</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>3A9EFDE0-5F66-3660-0A0E-E4F96B3D5215</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -42,8 +42,8 @@
 		<Attribute name="ДатаНачалаВыполненияОбработчикаОжидания" id="4">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Дата начала выполнения обработчика ожидания</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>DA617546-0762-01AE-E278-832D5C7962CF_______</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -56,8 +56,8 @@
 		<Attribute name="ОбновитьДанныеКлиентовТестирования" id="5">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Обновить данные клиентов тестирования</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>B49E474C-B7B4-E596-6FC4-48AF2F116788_</v8:content>
 				</v8:item>
 			</Title>
 			<Type>

@@ -15,8 +15,8 @@
 			<Name>СкачиваниеПрограмм</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Скачивание программ</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>1A913CE3-A978-0C84-4424-41928852C9CE</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>3B8D5B4C-876E-F50E-EC6A-A4B94D2B6900</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E422ED60-4238-06D3-3F18-8BECE8F33F9E</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

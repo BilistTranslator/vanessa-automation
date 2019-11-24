@@ -15,8 +15,8 @@
 			<Name>ПроверкаРаботыОбластей</Name>
 			<Synonym>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>ПроверкаРаботыОбластей</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>A6A2602E-6BB3-3651-14F5-535C7FD4A560</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -29,8 +29,8 @@
 					<Name>Контекст</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>3DA353AD-997C-F60B-B47D-D787D6277CF5</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -61,8 +61,8 @@
 					<Name>КонтекстСохраняемый</Name>
 					<Synonym>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Контекст сохраняемый</v8:content>
+							<v8:lang>hash</v8:lang>
+							<v8:content>E1487330-EDC1-FD2B-BD01-17809151949C</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

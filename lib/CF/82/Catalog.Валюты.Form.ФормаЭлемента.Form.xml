@@ -57,14 +57,14 @@
 		<Command name="ЗагрузитьКурс" id="1">
 			<Title>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить курс</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>D3A199DA-93F6-3908-8E29-96560094D111</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Загрузить курс</v8:content>
+					<v8:lang>hash</v8:lang>
+					<v8:content>08A134ED-FFAF-B178-86AA-A65CDE3BC207</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Action>ЗагрузитьКурс</Action>
