@@ -16,9 +16,9 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>СуществованиеЭлементов</v8:content>
+					<v8:content>Существование элементов</v8:content>
 				</v8:item>
-			</Synonym>
+			</Synonym>ы
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.СуществованиеЭлементов.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
