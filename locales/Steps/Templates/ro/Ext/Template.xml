@@ -135,6 +135,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Описание</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -146,6 +150,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перевод шага</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Translation step</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -156,6 +164,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перевод описания</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Translation description</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -467,6 +479,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Fixtures</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Fixtures</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -487,6 +503,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>Fixtures</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>Fixtures</v8:content>
 						</v8:item>
 					</tl>
@@ -613,6 +633,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Автоинструкции</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Auto instructions</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1006,6 +1030,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ввод на основании</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Input on basis</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1300,6 +1328,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Видимость</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Visibility</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1348,6 +1380,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Видимость элементов</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Elements visibility</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1544,6 +1580,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Встроенный язык</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Built-in language</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1986,6 +2026,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Доступность</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Accessibility</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2035,6 +2079,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Доступность элементов</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Availability items</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2083,6 +2131,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Заголовок</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Title</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -2770,6 +2822,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Имя формы</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Form name</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2867,6 +2923,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Календарь</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Calendar</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -3015,6 +3075,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Количество строк</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Row count</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -3063,6 +3127,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Колонки</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Columns</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -3162,6 +3230,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Context</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -3210,6 +3282,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст сохраняемый</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Saved context</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -3357,6 +3433,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Макет</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Layout</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -4389,6 +4469,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Отчеты</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Reports</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -4535,6 +4619,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Пакетный режим</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Package mode</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -4731,6 +4819,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перебор массива</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Iterates array</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -5123,6 +5215,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Подсказка</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Tip</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -5662,6 +5758,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Проверка значения таблицы</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Check table values</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -6839,6 +6939,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Сделать паузу</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>To pause</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -7426,6 +7530,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Таблица</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Table</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -8113,6 +8221,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Условие</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Condition</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -20216,6 +20328,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Faceți clic pe buton pentru a deschide câmpul de introducere.</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Faceți clic pe buton pentru a deschide câmpul de introducere.</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -28444,10 +28560,6 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Сохранение значения поля таблицы в переменную Контекст</v8:content>
 						</v8:item>
-						<v8:item>
-							<v8:lang>ro</v8:lang>
-							<v8:content>Сохранение значения поля таблицы в переменную Контекст</v8:content>
-						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -28585,10 +28697,6 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>И я меняю значение переключателя "%1 Заголовок элемента" на "%2 Значение переключателя"</v8:content>
 						</v8:item>
-						<v8:item>
-							<v8:lang>ro</v8:lang>
-							<v8:content>И я меняю значение переключателя "%1 Заголовок элемента" на "%2 Значение переключателя"</v8:content>
-						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -28614,10 +28722,6 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Și eu schimb valoarea comutatorului "%1 Titlul element" la "%2 Valoare comutatorului"</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ro</v8:lang>
-							<v8:content>Și eu schimb valoarea comutatorului "%1 Atribut radiobuton" la "%2 Prima valoare“</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28676,10 +28780,6 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Și eu schimb valoarea comutatorului cu numele "%1 AtributComutator" la "%2 Valoare comutatorului"</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ro</v8:lang>
-							<v8:content>Și eu schimb valoarea comutatorului cu numele "%1 Atributradiobuton" la "%2 Prima valoare“</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -28839,10 +28939,6 @@
 						</v8:item>
 						<v8:item>
 							<v8:lang>en</v8:lang>
-							<v8:content>Și eu butonez golirea câmpului cu numele "%1 NumeCâmp"</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ro</v8:lang>
 							<v8:content>Și eu butonez golirea câmpului cu numele "%1 NumeCâmp"</v8:content>
 						</v8:item>
 					</tl>
@@ -34118,10 +34214,6 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Și eu înlocuiesc valoarea comutatorului "%1 TitluElement" cu valoarea variabilei "%2 NumeVariabila"</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>ro</v8:lang>
 							<v8:content>Și eu înlocuiesc valoarea comutatorului "%1 TitluElement" cu valoarea variabilei "%2 NumeVariabila"</v8:content>
 						</v8:item>
 					</tl>

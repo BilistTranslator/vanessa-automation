@@ -18,6 +18,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>ВыводТекста</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>ShowText</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.ВыводТекста.Form.Форма</DefaultForm>

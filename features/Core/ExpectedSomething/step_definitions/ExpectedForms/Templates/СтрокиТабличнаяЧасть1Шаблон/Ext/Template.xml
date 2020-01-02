@@ -70,6 +70,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>N</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>N</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -80,6 +84,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит число</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute numder</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -92,6 +100,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит строка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Props string</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -102,6 +114,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит дата</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Props date</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -114,6 +130,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит справочник выбор из формы списка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute catalog select from list form</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -125,6 +145,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -135,6 +159,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит булево</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Props Boolean</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -152,6 +180,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -161,6 +193,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>56,78</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>56,78</v8:content>
 						</v8:item>
 					</tl>
@@ -174,6 +210,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>*стСтрока</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>*стСтрока</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -183,6 +223,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>11.*.1983</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>11.*.1983</v8:content>
 						</v8:item>
 					</tl>
@@ -196,6 +240,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент*</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem*</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -207,6 +255,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент21</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem21</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -217,6 +269,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Да</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Yes</v8:content>
 						</v8:item>
 					</tl>
 				</c>

@@ -18,6 +18,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Тестирование VA</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Testing VA</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.ТестированиеVA.Form.Форма</DefaultForm>
@@ -31,6 +35,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Context</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
@@ -63,6 +71,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст сохраняемый</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Saved context</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>

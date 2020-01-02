@@ -21,6 +21,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Контекст</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Context</v8:content>
+				</v8:item>
 			</Title>
 			<Type/>
 		</Attribute>
@@ -30,6 +34,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Контекст</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Context</v8:content>
+				</v8:item>
 			</Title>
 			<Type/>
 		</Attribute>
@@ -38,6 +46,10 @@
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Кол секунд таймер</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Number of seconds in timer</v8:content>
 				</v8:item>
 			</Title>
 			<Type>
@@ -53,6 +65,10 @@
 				<v8:item>
 					<v8:lang>ru</v8:lang>
 					<v8:content>Маск кол секунд таймер</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Max number of seconds timer</v8:content>
 				</v8:item>
 			</Title>
 			<Type>

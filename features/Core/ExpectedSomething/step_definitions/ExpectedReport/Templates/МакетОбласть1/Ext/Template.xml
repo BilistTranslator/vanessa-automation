@@ -52,6 +52,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Предопределенный</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Predefined</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -62,6 +66,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ВерсияДанных</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>DataVersion</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -74,6 +82,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяПредопределенныхДанных</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>PredefinedDataName</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -84,6 +96,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ПараметрЧисло</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>NumberParam</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -101,6 +117,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Нет</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>No</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -110,6 +130,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>*</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>*</v8:content>
 						</v8:item>
 					</tl>
@@ -127,6 +151,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>1,2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>1,2</v8:content>
 						</v8:item>
 					</tl>

@@ -40,6 +40,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Строка поиска</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Search string</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1201,6 +1205,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>В таблице &lt;%1&gt; ожидали получить %2 %3 строк, а получили &lt;%4&gt; строк.</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>В таблице &lt;%1&gt; ожидали получить %2 %3 строк, а получили &lt;%4&gt; строк.</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1604,6 +1612,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>В табличном документе в колонке &lt;%1&gt; значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки &lt;%4&gt;. Ряд &lt;%5&gt;, колонка &lt;%6&gt;</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>В табличном документе в колонке &lt;%1&gt; значение не соответствует условию 'Значение в колонке %2 %3'. Текущее значение колонки &lt;%4&gt;. Ряд &lt;%5&gt;, колонка &lt;%6&gt;</v8:content>
 						</v8:item>
 					</tl>
@@ -10273,6 +10285,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ожидали в течение &lt;%1&gt; секунд у таблицы &lt;%2&gt; количество строк %3 %4. Текущее количество строк &lt;%5&gt;</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ожидали в течение &lt;%1&gt; секунд у таблицы &lt;%2&gt; количество строк %3 %4. Текущее количество строк &lt;%5&gt;</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -11433,6 +11449,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ошибка при построении дерева из файла &lt;%1&gt;%2%3</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ошибка при построении дерева из файла &lt;%1&gt; %2 %3</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -12810,6 +12830,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Получить состояние всей формы</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Get the state of the whole form</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -16375,6 +16399,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Шаг</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Step</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -19129,6 +19157,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Этот клиент</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>This client</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -19939,6 +19971,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Context</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -20452,6 +20488,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Выполнить сценарии</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Run scenario</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -20532,6 +20572,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Выполнить</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Run scenarios</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -21235,6 +21279,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяФичи</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Kafici</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -21261,6 +21309,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяСценария</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Kasanaru</v8:content>
 						</v8:item>
 					</tl>
 				</c>

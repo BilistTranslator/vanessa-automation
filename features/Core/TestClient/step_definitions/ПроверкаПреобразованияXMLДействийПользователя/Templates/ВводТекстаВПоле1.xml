@@ -8,6 +8,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Ввод текста в поле1</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Entering text in field1</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<TemplateType>TextDocument</TemplateType>

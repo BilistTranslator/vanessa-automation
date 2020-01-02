@@ -53,6 +53,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Шаг оригинал</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Step original</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -63,6 +67,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Описание</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -75,6 +83,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перевод шага</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Translation step</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -85,6 +97,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перевод описания</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Translation description</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -630,6 +646,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Fixtures</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Fixtures</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -741,6 +761,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ввод на основании</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Input on basis</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -777,6 +801,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Видимость</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Visibility</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -851,6 +879,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Встроенный язык</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Built-in language</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1111,6 +1143,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Доступность</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Accessibility</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1147,6 +1183,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Заголовок</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Title</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1296,6 +1336,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Имя формы</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Form name</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1332,6 +1376,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Календарь</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Calendar</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1407,6 +1455,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Количество строк</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Row count</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1481,6 +1533,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Context</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1517,6 +1573,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст сохраняемый</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Saved context</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1925,6 +1985,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Отчеты</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Reports</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2110,6 +2174,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Подсказка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Tip</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2294,6 +2362,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Проверка значения таблицы</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Check table values</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -4962,6 +5034,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>И в поле с именем "ИмяПоля" ввожу значение переменной "ИмяПеременной"</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>And in a field named "Fieldname" enter the value of the variable "VariableName"</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -12153,6 +12229,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Когда Я задаю параметры чтения области макета "R1C1:R100C20"</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>When I set the reading options pane layout "R1C1:R100C20"</v8:content>
 						</v8:item>
 					</tl>
 				</c>

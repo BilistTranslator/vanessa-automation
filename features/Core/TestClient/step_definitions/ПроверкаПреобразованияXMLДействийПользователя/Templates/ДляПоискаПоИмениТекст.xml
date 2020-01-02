@@ -8,6 +8,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Для поиска по имени текст</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Search by name text</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<TemplateType>TextDocument</TemplateType>

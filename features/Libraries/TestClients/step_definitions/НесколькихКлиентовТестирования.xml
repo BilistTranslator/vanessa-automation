@@ -18,6 +18,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Последовательная работа нескольких клиентов тестирования в одном сценарии</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Consistent work of multiple clients testing in the same script</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.НесколькихКлиентовТестирования.Form.Форма</DefaultForm>

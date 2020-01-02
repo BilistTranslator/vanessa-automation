@@ -71,6 +71,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Тип</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Type</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -81,6 +85,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Вид</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>View</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -93,6 +101,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяПеременной</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>VariableName</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -103,6 +115,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТЧ</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TD</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -115,6 +131,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -125,6 +145,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Значение</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Value</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -137,6 +161,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Режим</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Mode</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -147,6 +175,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ДополнительныйТипЗначения</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>AdditionalValueType</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -164,16 +196,9 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>РегистрСведений</v8:content>
 						</v8:item>
-					</tl>
-				</c>
-			</c>
-			<c>
-				<c>
-					<f>0</f>
-					<tl>
 						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>РегистрСведений1</v8:content>
+							<v8:lang>en</v8:lang>
+							<v8:content>InformationRegister</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -185,6 +210,25 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>РегистрСведений1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>InformationRegister1</v8:content>
+						</v8:item>
+					</tl>
+				</c>
+			</c>
+			<c>
+				<c>
+					<f>0</f>
+					<tl>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>РегистрСведений1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>InformationRegister1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -215,6 +259,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Запись</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Record</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -232,6 +280,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Измерение1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Dimention11</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -242,6 +294,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Изм11</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Dim11</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -271,6 +327,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ресурс1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Resources1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -281,6 +341,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Рес11</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Res11</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -310,6 +374,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -320,6 +388,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Рек11</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Atr11</v8:content>
 						</v8:item>
 					</tl>
 				</c>

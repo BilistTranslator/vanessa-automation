@@ -76,6 +76,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Тип</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Type</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -86,6 +90,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Вид</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>View</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -98,6 +106,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяПеременной</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>VariableName</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -108,6 +120,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТЧ</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TD</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -120,6 +136,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -130,6 +150,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Значение</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Value</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -142,6 +166,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Режим</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Mode</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -152,6 +180,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ДополнительныйТипЗначения</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>AdditionalValueType</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -169,6 +201,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -180,6 +216,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -190,6 +230,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -220,6 +264,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -229,6 +277,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>6d3c08bc-7e50-11e5-829a-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>6d3c08bc-7e50-11e5-829a-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -255,6 +307,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -265,6 +321,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Тестовый Элемент 2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Test Item 2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -294,6 +354,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -303,6 +367,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000002</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000002</v8:content>
 						</v8:item>
 					</tl>
@@ -332,6 +400,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -343,6 +415,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -353,6 +429,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -383,6 +463,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -392,6 +476,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>6d3c08bb-7e50-11e5-829a-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>6d3c08bb-7e50-11e5-829a-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -418,6 +506,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -428,6 +520,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Тестовый Элемент 1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Test Item 1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -457,6 +553,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -466,6 +566,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000001</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000001</v8:content>
 						</v8:item>
 					</tl>
@@ -495,6 +599,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -506,6 +614,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -516,6 +628,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -534,6 +650,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -551,6 +671,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -560,6 +684,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>e31974e6-893f-11e5-82b4-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>e31974e6-893f-11e5-82b4-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -586,6 +714,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -596,6 +728,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -625,6 +761,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -634,6 +774,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000004</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000004</v8:content>
 						</v8:item>
 					</tl>
@@ -664,6 +808,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>xddMods</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>xddMods</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -681,6 +829,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Режим</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Mode</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -691,6 +843,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -708,6 +864,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -719,6 +879,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -729,6 +893,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2Элем2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2Item2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -759,6 +927,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -768,6 +940,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>e31974ea-893f-11e5-82b4-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>e31974ea-893f-11e5-82b4-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -794,6 +970,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Родитель</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Parent</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -805,6 +985,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -815,6 +999,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перем</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Var</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -839,6 +1027,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -849,6 +1041,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2Элем2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2Item2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -878,6 +1074,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -887,6 +1087,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000008</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000008</v8:content>
 						</v8:item>
 					</tl>
@@ -916,6 +1120,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -927,6 +1135,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -937,6 +1149,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2Элем1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2Item1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -967,6 +1183,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -976,6 +1196,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>e31974e9-893f-11e5-82b4-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>e31974e9-893f-11e5-82b4-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -1002,6 +1226,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Родитель</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Parent</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1013,6 +1241,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1023,6 +1255,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перем</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Var</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1047,6 +1283,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1057,6 +1297,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа2Элем1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group2Item1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1086,6 +1330,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1095,6 +1343,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000007</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000007</v8:content>
 						</v8:item>
 					</tl>
@@ -1124,6 +1376,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1135,6 +1391,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1145,6 +1405,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент20</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem20</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1175,6 +1439,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1184,6 +1452,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>a1429ebf-8146-11e5-829d-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>a1429ebf-8146-11e5-829d-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -1210,6 +1482,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1220,6 +1496,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент20</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem20</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1249,6 +1529,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1258,6 +1542,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000006</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000006</v8:content>
 						</v8:item>
 					</tl>
@@ -1287,6 +1575,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1298,6 +1590,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1308,6 +1604,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент23</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem23</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1338,6 +1638,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1347,6 +1651,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>a1429ec0-8146-11e5-829d-fcaa14342aaa</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>a1429ec0-8146-11e5-829d-fcaa14342aaa</v8:content>
 						</v8:item>
 					</tl>
@@ -1373,6 +1681,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1383,6 +1695,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ТестовыйЭлемент23</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>TestItem23</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1412,6 +1728,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1421,6 +1741,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000009</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000009</v8:content>
 						</v8:item>
 					</tl>
@@ -1450,6 +1774,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1461,6 +1789,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1471,6 +1803,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1489,6 +1825,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1506,6 +1846,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1515,6 +1859,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>e31974e5-893f-11e5-82b4-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>e31974e5-893f-11e5-82b4-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -1541,6 +1889,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1551,6 +1903,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1580,6 +1936,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1589,6 +1949,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000001</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000001</v8:content>
 						</v8:item>
 					</tl>
@@ -1619,6 +1983,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>xddMods</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>xddMods</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1636,6 +2004,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Режим</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Mode</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1646,6 +2018,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1663,6 +2039,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1674,6 +2054,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1684,6 +2068,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1Элем1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1Item1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1714,6 +2102,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1723,6 +2115,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>e31974e7-893f-11e5-82b4-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>e31974e7-893f-11e5-82b4-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -1749,6 +2145,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Родитель</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Parent</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1760,6 +2160,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1770,6 +2174,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перем</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Var</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1794,6 +2202,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1804,6 +2216,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1Элем1</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1Item1</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1833,6 +2249,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1842,6 +2262,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000003</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000003</v8:content>
 						</v8:item>
 					</tl>
@@ -1871,6 +2295,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1882,6 +2310,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Справочник2</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Catalog2</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1892,6 +2324,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1Элем2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1Item2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1922,6 +2358,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Ссылка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Ref</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1931,6 +2371,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>e31974e8-893f-11e5-82b4-fcaa1434287a</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>e31974e8-893f-11e5-82b4-fcaa1434287a</v8:content>
 						</v8:item>
 					</tl>
@@ -1957,6 +2401,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Родитель</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Parent</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1968,6 +2416,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -1978,6 +2430,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Перем</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Var</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -2002,6 +2458,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Наименование</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2012,6 +2472,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Группа1Элем2</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Group1Item2</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -2041,6 +2505,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Код</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Code</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -2050,6 +2518,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>000000002</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>000000002</v8:content>
 						</v8:item>
 					</tl>

@@ -18,6 +18,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Issue-149-ДелатьСкриншотПриОшибке</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Issue-149-MakeScreanshotOnError</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<DefaultForm>ExternalDataProcessor.Issue_149_ДелатьСкриншотПриОшибке.Form.Форма</DefaultForm>

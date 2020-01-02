@@ -8,6 +8,10 @@
 					<v8:lang>ru</v8:lang>
 					<v8:content>Получение макета два раза часть1</v8:content>
 				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Getting layout twice part1</v8:content>
+				</v8:item>
 			</Synonym>
 			<Comment/>
 			<TemplateType>SpreadsheetDocument</TemplateType>

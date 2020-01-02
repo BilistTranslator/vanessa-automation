@@ -9567,6 +9567,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>.</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>.</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -12831,6 +12835,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Получить состояние всей формы</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Get the state of the whole form</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -15002,6 +15010,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>.</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>.</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -16421,6 +16433,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Шаг</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Step</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -19149,6 +19165,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Этот клиент</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>This client</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -19959,6 +19979,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Контекст</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Context</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -20472,6 +20496,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Выполнить сценарии</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Run scenario</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -20552,6 +20580,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Выполнить</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Run scenarios</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -21255,6 +21287,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяФичи</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Kafici</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -21281,6 +21317,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>ИмяСценария</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Kasanaru</v8:content>
 						</v8:item>
 					</tl>
 				</c>

@@ -82,6 +82,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит справочник</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute catalog</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -92,6 +96,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит строка</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Props string</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -104,6 +112,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит быстрый выбор ТЧ</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute quick selection TD</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -115,6 +127,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит число</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute numder</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -124,6 +140,10 @@
 					<tl>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
+							<v8:content>N</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
 							<v8:content>N</v8:content>
 						</v8:item>
 					</tl>
@@ -137,6 +157,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Многострочная строка</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>A multi-line string</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -147,6 +171,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит справочник выбор из формы списка</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Attribute catalog select from list form</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -159,6 +187,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит дата</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Props date</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -169,6 +201,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Реквизит булево</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>Props Boolean</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -210,6 +246,10 @@
 							<v8:lang>ru</v8:lang>
 							<v8:content>1</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>1</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -238,6 +278,10 @@
 						<v8:item>
 							<v8:lang>ru</v8:lang>
 							<v8:content>Нет</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>en</v8:lang>
+							<v8:content>No</v8:content>
 						</v8:item>
 					</tl>
 				</c>
